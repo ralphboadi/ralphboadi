@@ -46,7 +46,7 @@ This project analyzes a sample Superstore dataset using SQL to generate key busi
 
 **Ralph Boadi**  
 📍 Calgary, Alberta  
-💼 Open to Data Analyst roles  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) *(Replace with your link)*
+💼 Open to Entry Data Analyst roles / Assistant Project Management roles
+🔗 [LinkedIn](https://www.linkedin.com/in/ralph-boadi)*(Replace with your link)*
 
 
