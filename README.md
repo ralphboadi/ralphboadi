@@ -5,6 +5,17 @@ This project analyzes a sample Superstore dataset using SQL to generate key busi
 ---
 
 ## 📁 Project Structure
+```
+sales-revenue-dashboard-sql/
+├── data/
+│ └── Sample - Superstore.csv
+├── sql/
+│ └── total_sales_profit_quantity.sql
+├── analysis/
+│ └── total_metrics_summary.md
+└── README.md
+```
+
 
 ---
 
