@@ -1,0 +1,11 @@
+-- sales_by_region.sql
+-- This query summarizes sales performance by region
+
+SELECT 
+SUM(Sales) AS Total_Sales, 
+SUM(Profit) AS Total_Profit, 
+SUM(Quantity) AS Total_Quantity, 
+ROUND(SUM(Profit)/ NULLIF(SUM(Sales), 0), 2)AS Profit_Margin
+FROM [Sample - Superstore]
+GROUP BY region 
+ORDER BY Total_Sales DESC;
