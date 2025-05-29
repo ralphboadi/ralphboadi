@@ -10,8 +10,10 @@ SELECT
     ROUND(AVG(Discount), 2) AS Avg_Discount,
     ROUND(SUM(Profit) / NULLIF(SUM(Sales), 0), 2) AS Profit_Margin
 FROM 
-    superstore_data
+    [Sample - Superstore]
 GROUP BY 
-    Region, Category
+    Region,
+    Category
 ORDER BY 
-    Region ASC, Total_Sales DESC;
+    Region ASC, 
+    Total_Sales DESC;
