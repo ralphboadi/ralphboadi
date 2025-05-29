@@ -11,9 +11,8 @@ sales-revenue-dashboard-sql/
 │ └── Sample - Superstore.csv
 ├── sql/
 │ └── total_sales_profit_quantity.sql
-├── analysis/
+├── analysis/summary/
 │ └── total_metrics_summary.md
-└── README.md
 ```
 
 
@@ -31,7 +30,6 @@ sales-revenue-dashboard-sql/
 
 - SQL (for analysis)
 - Python (Pandas, for EDA)
-- Git & GitHub (for version control)
 
 ---
 
@@ -44,13 +42,6 @@ sales-revenue-dashboard-sql/
 
 ---
 
-## 🚀 Coming Up
-
-- Sales by Region  
-- Top Products by Profit  
-- Monthly Sales Trends  
-- Customer Segments Analysis
-
 ---
 
 ## 📬 Contact
@@ -58,5 +49,5 @@ sales-revenue-dashboard-sql/
 **Ralph Boadi**  
 📍 Calgary, Alberta  
 💼 Open to Entry Data Analyst roles / Assistant Project Management roles
-🔗 [LinkedIn](https://www.linkedin.com/in/ralph-boadi)
+---🔗 [LinkedIn](https://www.linkedin.com/in/ralph-boadi)
 
