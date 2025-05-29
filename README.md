@@ -49,5 +49,5 @@ sales-revenue-dashboard-sql/
 **Ralph Boadi**  
 📍 Calgary, Alberta  
 💼 Open to Entry Data Analyst roles / Assistant Project Management roles
----🔗 [LinkedIn](https://www.linkedin.com/in/ralph-boadi)
+🔗 [LinkedIn](https://www.linkedin.com/in/ralph-boadi)
 
