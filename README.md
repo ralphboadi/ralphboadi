@@ -1,53 +1,80 @@
-# 📊 Sales Revenue Dashboard (SQL Project)
 
-This project analyzes a sample Superstore dataset using SQL to generate key business insights for dashboard reporting.
+# 🛒 Superstore Sales & Profit Analysis Dashboard
 
----
+This project showcases a full-cycle data analysis using SQL and Power BI, based on the Superstore sales dataset. The analysis involves querying sales data, summarizing key metrics, and visualizing business insights to assist executive decision-making.
+
+## 📂 Table of Contents
+- [About the Project](#about-the-project)
+- [Tools Used](#tools-used)
+- [Project Structure](#project-structure)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Insights](#key-insights)
+- [How to Use](#how-to-use)
+- [Author](#author)
+
+## 📌 About the Project
+
+This project simulates real-world data analysis for a retail company. It involves:
+- Writing SQL queries to analyze sales, profit, and regional trends.
+- Creating a Power BI dashboard for visual storytelling.
+- Documenting findings and sharing insights on GitHub.
+
+## 🧰 Tools Used
+
+- **SQL** (PostgreSQL / SSMS)
+- **Power BI** (Data visualization)
+- **Excel** (Data preparation)
+- **GitHub** (Version control & collaboration)
+- **Markdown** (Documentation)
 
 ## 📁 Project Structure
+
 ```
-sales-revenue-dashboard-sql/
+project-root/
+│
 ├── data/
-│ └── Sample - Superstore.csv
+│   └── Sample - Superstore.csv
+│
 ├── sql/
-│ └── total_sales_profit_quantity.sql
-├── analysis/summary/
-│ └── total_metrics_summary.md
+│   ├── sales_by_category.sql
+│   ├── sales_by_region.sql
+│   └── profit_by_sub_category.sql
+│
+├── powerbi/
+│   └── Superstore_Dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
 ```
 
+## 📊 Dashboard Preview
 
----
+![Power BI Dashboard](images/dashboard_preview.png)
 
-## 📌 Goals
+This Power BI dashboard highlights:
+- Total Sales & Profit by Category/Sub-Category
+- Regional Profit Margin Analysis
+- Performance color-coded: 🔵 Blue for high values, 🔴 Red for low
 
-- Calculate total sales, profit, quantity, and profit margin
-- Analyze performance by region, category, and segment
-- Provide data-driven insights for dashboard reporting
+## 🧠 Key Insights
 
----
+- 🔹 The **West** region had the highest total profit.
+- 🔸 The **Central** region had higher sales volume but lower profit margins.
+- 🔹 **Technology** and **Office Supplies** were top-performing categories.
+- 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
 
-## 🛠️ Tools Used
+## 🔧 How to Use
 
-- SQL (for analysis)
-- Python (Pandas, for EDA)
+1. Clone this repository.
+2. Open and run the SQL files in your SQL environment using `Sample - Superstore.csv` as your data source.
+3. Open the Power BI file (`Superstore_Dashboard.pbix`) to explore the dashboard.
+4. Review insights and make data-driven recommendations.
 
----
-
-## 📈 Key Metrics (from Total Overview Query)
-
-- **Total Sales:** \$2,297,200.86  
-- **Total Profit:** \$286,397.02  
-- **Total Quantity:** 37,873 units  
-- **Profit Margin:** 12%
-
----
-
----
-
-## 📬 Contact
+## 👨‍💻 Author
 
 **Ralph Boadi**  
-📍 Calgary, Alberta  
-💼 Open to Entry Data Analyst roles / Assistant Project Management roles
-🔗 [LinkedIn](https://www.linkedin.com/in/ralph-boadi)
-
+Aspiring Data Analyst | SQL | Power BI | Inventory Analytics  
+GitHub: [github.com/yourusername](https://github.com/yourusername)  
+LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
