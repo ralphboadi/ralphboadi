@@ -76,5 +76,5 @@ This Power BI dashboard highlights:
 
 **Ralph Boadi**  
 Aspiring Data Analyst | SQL | Power BI | Inventory Analytics  
-GitHub: [github.com/yourusername](https://github.com/yourusername)  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+GitHub: [github.com/yourusername](https://github.com/ralphboadi)  
+LinkedIn: [linkedin.com/in/ralph-boadi](https://linkedin.com/in/ralph-boadi)
