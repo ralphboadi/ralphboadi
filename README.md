@@ -9,7 +9,6 @@ This project showcases a full-cycle data analysis using SQL and Power BI, based 
 - [Project Structure](#project-structure)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Insights](#key-insights)
-- [How to Use](#how-to-use)
 - [Author](#author)
 
 ## 📌 About the Project
@@ -64,13 +63,6 @@ This Power BI dashboard highlights:
 - 🔸 The **Central** region had higher sales volume but lower profit margins.
 - 🔹 **Technology** and **Office Supplies** were top-performing categories.
 - 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
-
-## 🔧 How to Use
-
-1. Clone this repository.
-2. Open and run the SQL files in your SQL environment using `Sample - Superstore.csv` as your data source.
-3. Open the Power BI file (`Superstore_Dashboard.pbix`) to explore the dashboard.
-4. Review insights and make data-driven recommendations.
 
 ## 👨‍💻 Author
 
