@@ -50,8 +50,6 @@ project-root/
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](images/dashboard_preview.png)
-
 This Power BI dashboard highlights:
 - Total Sales & Profit by Category/Sub-Category
 - Regional Profit Margin Analysis
