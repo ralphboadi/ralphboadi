@@ -87,8 +87,9 @@ SQL was used to:
 - Calculate total sales, profit, and order count per customer
 - Assign customer tiers using CASE statements
 - Export summarized tables to Power BI
----
-📈 ##Business Impact
+
+📈 Business Impact
+
 **Customer segmentation helps businesses:**
 
 -Target high-value customers for retention and loyalty campaigns
