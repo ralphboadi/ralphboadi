@@ -84,6 +84,6 @@ Using these, we assign each customer a segment label (e.g., Platinum, Gold, Silv
 ## 👨‍💻 Author
 
 **Ralph Boadi**  
-Aspiring Data Analyst | SQL | Power BI | Inventory Analytics  
+Aspiring Data Analyst | SQL | Power BI | Business Analytics  
 GitHub: [github.com/ralphboadi](https://github.com/ralphboadi)  
 LinkedIn: [linkedin.com/in/ralph-boadi](https://linkedin.com/in/ralph-boadi)
