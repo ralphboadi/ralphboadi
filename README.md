@@ -89,9 +89,12 @@ SQL was used to:
 - Export summarized tables to Power BI
 
 📈 Business Impact
--Customer segmentation helps businesses:
+-Customer segmentation helps businesses
+
 -Target high-value customers for retention and loyalty campaigns
+
 -Reduce costs by deprioritizing unprofitable customer segments
+
 -Develop tailored marketing strategies per segment
 
 
