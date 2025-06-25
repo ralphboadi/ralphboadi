@@ -62,6 +62,25 @@ This Power BI dashboard highlights:
 - 🔹 **Technology** and **Office Supplies** were top-performing categories.
 - 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
 
+Customer Segmentation Analysis (SQL + Power BI)
+This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
+
+## 📌 About the Project
+
+This project applies customer segmentation techniques to retail data using SQL and Power BI. By grouping customers based on total sales, profit, and order behavior, we uncover high-value segments that can help drive focused business strategies.
+
+## 🧠 Segmentation Logic
+
+Customers are segmented based on:
+
+- 📈 **Total Sales**: Indicates purchasing power  
+- 💰 **Total Profit**: Measures profitability  
+- 🔁 **Order Count**: Reflects buying frequency  
+- 🌍 **Region & Segment**: Business categorization
+
+Using these, we assign each customer a segment label (e.g., Platinum, Gold, Silver) based on performance.
+
+
 ## 👨‍💻 Author
 
 **Ralph Boadi**  
