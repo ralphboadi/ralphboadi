@@ -80,6 +80,20 @@ Customers are segmented based on:
 
 Using these, we assign each customer a segment label (e.g., Platinum, Gold, Silver) based on performance.
 
+## 🧾 SQL Queries
+
+SQL was used to:
+- Join customer and order data
+- Calculate total sales, profit, and order count per customer
+- Assign customer tiers using CASE statements
+- Export summarized tables to Power BI
+
+📈 Business Impact
+-Customer segmentation helps businesses:
+-Target high-value customers for retention and loyalty campaigns
+-Reduce costs by deprioritizing unprofitable customer segments
+-Develop tailored marketing strategies per segment
+
 
 ## 👨‍💻 Author
 
