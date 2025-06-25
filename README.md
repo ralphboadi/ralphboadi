@@ -62,7 +62,7 @@ This Power BI dashboard highlights:
 - 🔹 **Technology** and **Office Supplies** were top-performing categories.
 - 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
 
-## Customer Segmentation Analysis (SQL + Power BI)/ Project 002
+## Customer Segmentation Analysis (SQL + Power BI)/ Project 001a
 This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
 
 ## 📌 About the Project
