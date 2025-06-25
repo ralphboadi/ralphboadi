@@ -1,5 +1,5 @@
 
-# 🛒 Superstore Sales & Profit Analysis Dashboard
+# 🛒 Superstore Sales & Profit Analysis Dashboard / Project 001
 
 This project showcases a full-cycle data analysis using SQL and Power BI, based on the Superstore sales dataset. The analysis involves querying sales data, summarizing key metrics, and visualizing business insights to assist executive decision-making. This project blends business analysis and technical data skills. 
 
@@ -62,7 +62,7 @@ This Power BI dashboard highlights:
 - 🔹 **Technology** and **Office Supplies** were top-performing categories.
 - 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
 
-Customer Segmentation Analysis (SQL + Power BI)
+## Customer Segmentation Analysis (SQL + Power BI)/ Project 002
 This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
 
 ## 📌 About the Project
