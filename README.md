@@ -1,7 +1,7 @@
 
 # 🛒 Superstore Sales & Profit Analysis Dashboard
 
-This project showcases a full-cycle data analysis using SQL and Power BI, based on the Superstore sales dataset. The analysis involves querying sales data, summarizing key metrics, and visualizing business insights to assist executive decision-making.
+This project showcases a full-cycle data analysis using SQL and Power BI, based on the Superstore sales dataset. The analysis involves querying sales data, summarizing key metrics, and visualizing business insights to assist executive decision-making. This project blends business analysis and technical data skills. 
 
 ## 📂 Table of Contents
 - [About the Project](#about-the-project)
