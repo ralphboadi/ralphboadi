@@ -65,9 +65,6 @@ This Power BI dashboard highlights:
 ## Customer Segmentation Analysis (SQL + Power BI)/ Project 001a
 This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
 
-## 📌 About the Project
-
-This project applies customer segmentation techniques to retail data using SQL and Power BI. By grouping customers based on total sales, profit, and order behavior, we uncover high-value segments that can help drive focused business strategies.
 
 ## 🧠 Segmentation Logic
 
