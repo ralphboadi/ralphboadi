@@ -77,7 +77,7 @@ Customers are segmented based on:
 
 Using these, we assign each customer a segment label (e.g., Platinum, Gold, Silver) based on performance.
 
-## 🧾 SQL Queries
+## SQL Queries
 
 SQL was used to:
 - Join customer and order data
