@@ -75,7 +75,7 @@ Customers are segmented based on:
 - 🔁 **Order Count**: Reflects buying frequency  
 - 🌍 **Region & Segment**: Business categorization
 
-## KEY INSIGHTS 
+## Key Insights
 - Top 10% of customers genereate over 40% of total profit.
 - High value customers are concentrated in the "Corporate" and "Consumer" segments.
 - Profitablity varies significantly by region. The West region has the highest averrage profit per customer. The Central region has many frequent but lower-profit customers.
@@ -90,7 +90,7 @@ SQL was used to:
 - Assign customer tiers using CASE statements
 - Export summarized tables to Power BI
 
-##📈 Business Impact
+## Business Impact
 
 **Customer segmentation helps businesses:**
 
