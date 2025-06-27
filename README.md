@@ -9,6 +9,7 @@ This project showcases a full-cycle data analysis using SQL and Power BI, based 
 - [Project Structure](#project-structure)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Insights](#key-insights)
+- [Customer Segementation Analysis/ Project 001a]
 - [Author](#author)
 
 ## 📌 About the Project
@@ -75,7 +76,12 @@ Customers are segmented based on:
 - 🔁 **Order Count**: Reflects buying frequency  
 - 🌍 **Region & Segment**: Business categorization
 
-Using these, we assign each customer a segment label (e.g., Platinum, Gold, Silver) based on performance.
+## KEY INSIGHTS 
+- Top 10% of customers genereate over 40% of total profit.
+- High value customers are concentrated in the "Corporate" and "Consumer" segments.
+- Profitablity varies significantly by region. The West region has the highest averrage profit per customer. The Central region has many frequent but lower-profit customers.
+
+Using these, we assign each customer a segment label (Platinum, Gold, Silver) based on performance.
 
 ## SQL Queries
 
@@ -85,7 +91,7 @@ SQL was used to:
 - Assign customer tiers using CASE statements
 - Export summarized tables to Power BI
 
-📈 Business Impact
+##📈 Business Impact
 
 **Customer segmentation helps businesses:**
 
