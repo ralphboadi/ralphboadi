@@ -9,7 +9,7 @@ This project showcases a full-cycle data analysis using SQL and Power BI, based 
 - [Project Structure](#project-structure)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Insights](#key-insights)
-- [Customer Segementation Analysis/ Project 001a]
+- [Customer Segementation Analysis/ Project 001a](#customer-segmentation-analysis-project 001a)
 - [Author](#author)
 
 ## 📌 About the Project
