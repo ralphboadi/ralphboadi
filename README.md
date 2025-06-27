@@ -24,8 +24,7 @@ This project simulates real-world data analysis for a retail company. It involve
 - **SQL** (SSMS)
 - **Power BI** (Data visualization)
 - **Excel** (Data preparation)
-- **GitHub** (Version control & collaboration)
-- **Markdown** (Documentation)
+- **GitHub** (Version control & Documentation)
 
 ## 📁 Project Structure
 
