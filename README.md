@@ -6,10 +6,10 @@ This project showcases a full-cycle data analysis using SQL and Power BI, based 
 ## 📂 Table of Contents
 - [About the Project](#about-the-project)
 - [Tools Used](#tools-used)
-- [Project Structure](#project-structure)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Insights](#key-insights)
-- [Customer Segementation Analysis](#customer-segmentation-analysis-project-001a)
+- [Metrics Summary](metrics-summary)
+- [Customer Segementation Analysis](#customer-segmentation-analysis)
 - [Author](#author)
 
 ## 📌 About the Project
@@ -26,28 +26,6 @@ This project simulates real-world data analysis for a retail company. It involve
 - **Excel** (Data preparation)
 - **GitHub** (Version control & Documentation)
 
-## 📁 Project Structure
-
-```
-project-root/
-│
-├── data/
-│   └── Sample - Superstore.csv
-│
-├── sql/
-│   ├── sales_by_category.sql
-│   ├── sales_by_region.sql
-│   └── profit_by_sub_category.sql
-│
-├── powerbi/
-│   └── Superstore_Dashboard.pbix
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
-```
-
 ## 📊 Dashboard Preview
 
 This Power BI dashboard highlights:
@@ -62,7 +40,14 @@ This Power BI dashboard highlights:
 - 🔹 **Technology** and **Office Supplies** were top-performing categories.
 - 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
 
-## Customer Segmentation Analysis (SQL) / Project 001a
+## 🔢 Metrics Summary
+
+- **Total Sales:** $2,297,200.86
+- **Total Profit:** $286,397.02
+- **Total Quantity Sold:** 37,873 units
+- **Profit Margin:** 12%
+
+## Customer Segmentation Analysis 
 This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
 
 
@@ -80,7 +65,7 @@ Customers are segmented based on:
 - High value customers are concentrated in the "Corporate" and "Consumer" segments.
 - Profitablity varies significantly by region. The West region has the highest averrage profit per customer. The Central region has many frequent but lower-profit customers.
 
-Using these, we assign each customer a segment label (Platinum, Gold, Silver, Bronze) based on performance.
+Using these, we assign each customer a segment label (Platinum for customers with sales greater than $10000, Gold for customer with sales greater or equal to $5000, Silver for customers less than $1000, Else Bronze for customers with no sales) based on performance.
 
 ## SQL Queries
 
