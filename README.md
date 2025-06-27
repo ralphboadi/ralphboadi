@@ -62,7 +62,7 @@ This Power BI dashboard highlights:
 - 🔹 **Technology** and **Office Supplies** were top-performing categories.
 - 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
 
-## Customer Segmentation Analysis (SQL + Power BI)/ Project 001a
+## Customer Segmentation Analysis (SQL) / Project 001a
 This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
 
 
@@ -80,7 +80,7 @@ Customers are segmented based on:
 - High value customers are concentrated in the "Corporate" and "Consumer" segments.
 - Profitablity varies significantly by region. The West region has the highest averrage profit per customer. The Central region has many frequent but lower-profit customers.
 
-Using these, we assign each customer a segment label (Platinum, Gold, Silver) based on performance.
+Using these, we assign each customer a segment label (Platinum, Gold, Silver, Bronze) based on performance.
 
 ## SQL Queries
 
@@ -88,15 +88,14 @@ SQL was used to:
 - Join customer and order data
 - Calculate total sales, profit, and order count per customer
 - Assign customer tiers using CASE statements
-- Export summarized tables to Power BI
 
 ## Business Impact
 
 **Customer segmentation helps businesses:**
 
--Target high-value customers for retention and loyalty campaigns
--Reduce costs by deprioritizing unprofitable customer segments
--Develop tailored marketing strategies per segment
+- Target high-value customers for retention and loyalty campaigns.
+- Reduce costs by deprioritizing unprofitable customer segments
+- Develop tailored marketing strategies per segment
 
 
 ## 👨‍💻 Author
