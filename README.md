@@ -21,7 +21,7 @@ This project simulates real-world data analysis for a retail company. It involve
 
 ## 🧰 Tools Used
 
-- **SQL** (PostgreSQL / SSMS)
+- **SQL** (SSMS)
 - **Power BI** (Data visualization)
 - **Excel** (Data preparation)
 - **GitHub** (Version control & collaboration)
