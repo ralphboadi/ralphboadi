@@ -86,6 +86,6 @@ SQL was used to:
 ## 👨‍💻 Author
 
 **Ralph Boadi**  
-Aspiring Data Analyst | SQL | Power BI | Business Analytics  
+Aspiring Data Analyst | Mircosoft Excel | SQL | Power BI | Python  
 GitHub: [github.com/ralphboadi](https://github.com/ralphboadi)  
 LinkedIn: [linkedin.com/in/ralph-boadi](https://linkedin.com/in/ralph-boadi)
