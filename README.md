@@ -65,7 +65,7 @@ Customers are segmented based on:
 - High value customers are concentrated in the "Corporate" and "Consumer" segments.
 - Profitablity varies significantly by region. The West region has the highest averrage profit per customer. The Central region has many frequent but lower-profit customers.
 
-Using these, we assign each customer a segment label (Platinum for customers with sales greater than $10000, Gold for customer with sales greater or equal to $5000, Silver for customers less than $1000, Else Bronze for customers with no sales) based on performance.
+Using these, we assign each customer a segment label (Platinum for customers with sales greater than or equal to $10000, Gold for customer with sales greater than or equal to $5000, Silver for customers less than or equal to $1000, Else Bronze for customers with no sales) based on performance.
 
 ## SQL Queries
 
