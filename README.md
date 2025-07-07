@@ -1,1 +1,37 @@
+# 👋 Hi, I'm Ralph Boadi
 
+I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in logistics and operations, and a growing portfolio of data-driven projects. I'm passionate about using **SQL**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions.
+
+---
+
+## 📁 Portfolio Projects
+
+### 📊 Superstore Sales & Revenue Dashboard
+**Tools:** Power BI, SQL, Excel  
+- Built an interactive dashboard analyzing sales across region, category, and time  
+- Used SQL for data preparation and Power BI for clean, actionable visuals  
+- [View Project →](./superstore-sales-dashboard/README.md) *(or link to the folder if it's part of this repo)*
+
+---
+
+### 🧪 A/B Testing: Landing Page Conversion Experiment
+**Tools:** Python (Pandas, Statsmodels), Synthetic Dataset  
+- Simulated an A/B test with 500 users (control vs treatment groups)  
+- Measured conversion rates and ran a statistical significance test  
+- [View Project →](./ab_test_landing_page/README.md)
+
+---
+
+## 📚 Tools & Skills
+
+- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib), Excel
+- **BI Tools**: Power BI
+- **Data Skills**: Data Cleaning, Analysis, A/B Testing, Dashboarding
+- **Soft Skills**: Communication, Critical Thinking, Team Collaboration
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: ralph.your.email@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/ralphboadi](https://www.linkedin.com/in/ralphboadi)
