@@ -33,5 +33,5 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ## 📬 Let's Connect
 
-- 📧 Email: ralph.your.email@example.com  
+- 📧 Email: ralphboadi@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/ralphboadi](https://www.linkedin.com/in/ralphboadi)
