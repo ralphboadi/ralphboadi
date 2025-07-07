@@ -4,6 +4,22 @@
 This project showcases a full-cycle data analysis using SQL and Power BI, based on the Superstore sales dataset. The analysis involves querying sales data, summarizing key metrics, and visualizing business insights to assist executive decision-making. This project blends business analysis and technical data skills. 
 
 ## 📂 Table of Contents
+superstore-sales-dashboard/
+├── about the project
+├── tools used 
+├── dashboard preview
+├── key insights
+├── metrics
+├── customer segmentation analysis
+├── segmentation logic
+├── key insight
+├── sql queries
+├── business impact
+└── ab_test_landing_page/
+    ├── ab_test_analysis.py
+    ├── ab_test_synthetic_500_users.csv
+    ├── results.txt
+    └── README.md
 - [About the Project](#about-the-project)
 - [Tools Used](#tools-used)
 - [Dashboard Preview](#dashboard-preview)
