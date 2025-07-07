@@ -18,7 +18,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 **Tools:** Python (Pandas, Statsmodels), Synthetic Dataset  
 - Simulated an A/B test with 500 users (control vs treatment groups)  
 - Measured conversion rates and ran a statistical significance test  
-- [View Project →](./ab_test_landing_page/README.md)
+- [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/readme.md)
 
 ---
 
