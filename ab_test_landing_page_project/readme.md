@@ -48,12 +48,9 @@ Group B has a different conversion rate than Group A.
 ## What This Means
 The difference we observed in conversions may be due to random chance rather than a true effect of the new design.
 To confirm or deny a real difference, you may need:
-
-A larger sample size
-
-Segmentation by device type
-
-More time for data collection
+- A larger sample size
+- Segmentation by device type
+- More time for data collection
 
 ---
 
