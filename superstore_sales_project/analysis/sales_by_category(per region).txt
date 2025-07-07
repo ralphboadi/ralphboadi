@@ -1,0 +1,31 @@
+# 📦 Sales by Category (Per Region) Summary
+
+This analysis breaks down the sales, profit, quantity, average discount, and profit margin across each category in all four regions.
+
+## 🔍 Key Observations
+
+### West Region
+- **Technology** leads in both sales and profit, with strong profit margins.
+- **Office Supplies** sell well in volume but have lower margins.
+- Discounts are modest across categories.
+
+### East Region
+- Strong performance in **Furniture** and **Technology**.
+- Office Supplies again show high quantity but moderate margins.
+
+### Central Region
+- High volume of **Office Supplies**, but relatively low profit and profit margin.
+- May indicate high discounting or low-margin product mix.
+- **Furniture** and **Technology** underperform relative to other regions.
+
+### South Region
+- **Technology** is dominant in sales and margin.
+- **Furniture** has relatively higher profit margin than Office Supplies.
+
+## 📌 Recommendation
+- Investigate Central region’s low margins — likely caused by discounting or product mix.
+- Consider rebalancing inventory or promotions toward higher-margin categories like Technology.
+
+---
+
+This breakdown supports more precise marketing, inventory planning, and profit strategy per region.
