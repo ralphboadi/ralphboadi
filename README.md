@@ -23,8 +23,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ---
 
 ## 📚 Tools & Skills
-
-- **Languages**: Python (Pandas, NumPy, Matplotlib), Excel
+- **Languages/ Tools**: SQL,Power BI, Python (Pandas, NumPy, Matplotlib), Excel
 - **Data Skills**: Data Cleaning, Analysis, A/B Testing, Dashboarding
 - **Soft Skills**: Communication, Critical Thinking, Team Collaboration
 
