@@ -14,7 +14,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ---
 
-### 🧪 A/B Testing: Landing Page Conversion Experiment
+### A/B Testing: Landing Page Conversion Experiment
 **Tools:** Python (Pandas, Statsmodels), Synthetic Dataset  
 - Simulated an A/B test with 500 users (control vs treatment groups)  
 - Measured conversion rates and ran a statistical significance test  
@@ -22,14 +22,14 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ---
 
-## 📚 Tools & Skills
+## Tools & Skills
 - **Languages/ Tools**: SQL,Power BI, Python (Pandas, NumPy, Matplotlib), Excel
 - **Data Skills**: Data Cleaning, Analysis, A/B Testing, Dashboarding
 - **Soft Skills**: Communication, Critical Thinking, Team Collaboration
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- 📧 Email: ralphboadi@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/ralphboadi](https://www.linkedin.com/in/ralphboadi)
+- Email: ralphboadi@gmail.com  
+- LinkedIn: [linkedin.com/in/ralphboadi](https://www.linkedin.com/in/ralphboadi)
