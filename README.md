@@ -98,6 +98,16 @@ SQL was used to:
 - Reduce costs by deprioritizing unprofitable customer segments
 - Develop tailored marketing strategies per segment
 
+## 📊 Additional Analysis: A/B Test (Landing Page Experiment)
+
+This repo also includes a simulated A/B testing scenario:
+
+- Located in `/ab_test_landing_page/`
+- 500-user synthetic dataset
+- Goal: Compare conversion rates between Group A (control) and Group B (treatment)
+- Tools: Python (Pandas, statistical testing)
+
+See the subfolder's [README](./ab_test_landing_page/README.md) for details.
 
 ## 👨‍💻 Author
 
