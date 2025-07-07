@@ -1,0 +1,29 @@
+## Results
+
+| Group | Number of Users(n) | Conversions(x) | Conversion Rate |
+|-------|--------------------|----------------|-----------------|
+| A (n1) |  *[245]*       |  *[22]*        |  *[.089796]*    |
+| B (n2) |  *[256]*       |  *[33]*        |  *[0.128906]*   |
+
+---
+
+## Statistical Test
+
+We performed a **z-test for two proportions** to evaluate if the difference in conversion rates is statistically significant.
+
+- **Z-statistic:** `-1.3998`
+- **P-value:** `0.1616`
+
+At a significance level of 0.05, the p-value is greater than 0.05, so:
+
+> **We fail to reject the null hypothesis.**  
+> There is no statistically significant difference in conversion rates between the original and new landing page.
+
+---
+
+## Interpretation
+
+> Since the p-value (0.1616) is greater than 0.05, we fail to reject the null hypothesis.
+> There is no statistically significant evidence that the new landing page (Group B) outperforms the original (Group A) in terms of conversion rate
+
+---

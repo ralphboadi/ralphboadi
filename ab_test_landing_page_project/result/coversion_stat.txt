@@ -1,0 +1,17 @@
+User count per group:
+group
+B    256
+A    245
+Name: count, dtype: int64
+
+Total conversions per group:
+group
+A    22
+B    33
+Name: converted, dtype: int64
+
+Conversion rate per group:
+group
+A    0.089796
+B    0.128906
+Name: converted, dtype: float64
