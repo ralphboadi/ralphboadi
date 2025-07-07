@@ -6,9 +6,9 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ## 📁 Portfolio Projects
 
-### 📊 Superstore Sales & Revenue Dashboard
+### Superstore Sales & Revenue Dashboard
 **Tools:** Power BI, SQL, Excel  
-- Built an interactive dashboard analyzing sales across region, category, and time  
+- Built an interactive dashboard analyzing sales across region, category, and sub-category 
 - Used SQL for data preparation and Power BI for clean, actionable visuals  
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/superstore_sales_project/superstore-sales-project_readme.md) *(or link to the folder if it's part of this repo)*
 
@@ -24,8 +24,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ## 📚 Tools & Skills
 
-- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib), Excel
-- **BI Tools**: Power BI
+- **Languages**: Python (Pandas, NumPy, Matplotlib), Excel
 - **Data Skills**: Data Cleaning, Analysis, A/B Testing, Dashboarding
 - **Soft Skills**: Communication, Critical Thinking, Team Collaboration
 
