@@ -5,9 +5,9 @@ This project delivers a full-cycle business intelligence solution for retail dat
     
 ## Project Overview
 - A comprehensive analysis pipeline built to:
-    - Explore regional, categorical, and segment-level sales data.
-    - Identify profitable product lines and customer behaviors.
-    - Support strategic planning for marketing and inventory.
+    - Explore regional, categorical, and segment-level sales data
+    - Identify profitable product lines and customer behaviors
+    - Support strategic planning for marketing and inventory
 
 ## Tools Used
 
@@ -35,28 +35,28 @@ This project delivers a full-cycle business intelligence solution for retail dat
 
 #### Key Insights
 
-- West region generates the highest sales and profit, with a strong profit margin of 15%.
-- South has the lowest sales volume, but a relatively healthy 11% margin.
-- Central lags in profit margin, suggesting inefficiencies or lower-margin product sales.
+- West region generates the highest sales and profit, with a strong profit margin of 15%
+- South has the lowest sales volume, but a relatively healthy 11% margin
+- Central lags in profit margin, suggesting inefficiencies or lower-margin product sales
 
 ### Product Catergory Analysis (per region)
 #### West Region
-- Technology leads in both sales and profit, with strong profit margins.
-- Office Supplies sell well in volume but have lower margins.
-- Discounts are modest across categories.
+- Technology leads in both sales and profit, with strong profit margins
+- Office Supplies sell well in volume but have lower margins
+- Discounts are modest across categories
 
 #### East Region
-- Strong performance in **Furniture** and **Technology**.
-- Office Supplies again show high quantity but moderate margins.
+- Strong performance in **Furniture** and **Technology**
+- Office Supplies again show high quantity but moderate margins
 
 #### Central Region
-- High volume of Office Supplies, but relatively low profit and profit margin.
-- May indicate high discounting or low-margin product mix.
-- Furniture and Technology underperform relative to other regions.
+- High volume of Office Supplies, but relatively low profit and profit margin
+- May indicate high discounting or low-margin product mix
+- Furniture and Technology underperform relative to other regions
 
 #### South Region
-- Technology is dominant in sales and margin.
-- Furniture has relatively higher profit margin than Office Supplies.
+- Technology is dominant in sales and margin
+- Furniture has relatively higher profit margin than Office Supplies
 
 ##  Top Performing Sub-Categories by Sales
 
@@ -70,10 +70,10 @@ This project delivers a full-cycle business intelligence solution for retail dat
 
 #### Insights
 
-- Phones lead in total sales and generate solid profits.
-- Copiers have the highest profit margin (0.37) despite fewer sales — a premium segment.
-- Tables and Bookcases report negative profit, likely due to deep discounting or high cost structure.
-- Binders and Chairs sell in high volume but operate on thinner margins.
+- Phones lead in total sales and generate solid profits
+- Copiers have the highest profit margin (0.37) despite fewer sales — a premium segment
+- Tables and Bookcases report negative profit, likely due to deep discounting or high cost structure
+- Binders and Chairs sell in high volume but operate on thinner margins
 
 ---
 
@@ -94,10 +94,10 @@ This project delivers a full-cycle business intelligence solution for retail dat
 
 
 #### Key Insights
-- Top 10% of customers genereate over 40% of total profit.
+- Top 10% of customers genereate over 40% of total profit
 - Corporate and Consumer segments dominate top-tier profitability
-- Profitablity varies significantly by region. West region customers show highest average profit per person.
-- The Central region has many frequent but lower-profit customers.
+- Profitablity varies significantly by region. West region customers show highest average profit per person
+- The Central region has many frequent but lower-profit customers
 
 ## SQL Highlights
 - Joined datasets to enrich customer and order info
