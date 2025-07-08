@@ -1,0 +1,37 @@
+import pandas as pd
+from scipy.stats import ttest_ind, chi2_contingency
+
+# Load the dataset
+df_soccer_ab = pd.read_csv(r"C:\Users\Kweku\Dropbox\PC\Desktop\data analyst portfolio pratices and project\soccer_ab_test_project\data\soccer_ab_testing_dataset.csv")
+
+# Recalculate missing KPI columns
+df_soccer_ab["pass_accuracy"] = df_soccer_ab["pass_completed"] / df_soccer_ab["pass_attempts"]
+df_soccer_ab["conversion_rate"] = (df_soccer_ab["goals"] > 0).astype(int)
+
+# Separate the data by group
+group_A = df_soccer_ab[df_soccer_ab["group"] == "A"]
+group_B = df_soccer_ab[df_soccer_ab["group"] == "B"]
+
+# Perform independent t-tests for numeric KPIs
+ttest_results = {
+    "Pass Accuracy": ttest_ind(group_A["pass_accuracy"], group_B["pass_accuracy"]),
+    "Shots on Target": ttest_ind(group_A["shots_on_target"], group_B["shots_on_target"]),
+    "Goals": ttest_ind(group_A["goals"], group_B["goals"]),
+    "Possession (%)": ttest_ind(group_A["possession_pct"], group_B["possession_pct"]),
+}
+
+# Perform Chi-Square test for scoring conversion rate (binary outcome)
+conversion_table = pd.crosstab(df_soccer_ab["group"], df_soccer_ab["conversion_rate"])
+chi2_stat, p_val, dof, expected = chi2_contingency(conversion_table)
+
+# Compile results
+stat_test_summary = {
+    "T-Tests": {k: {"statistic": v.statistic, "p_value": v.pvalue} for k, v in ttest_results.items()},
+    "Chi-Square (Conversion Rate)": {
+        "chi2_statistic": chi2_stat,
+        "p_value": p_val,
+        "degrees_of_freedom": dof
+    }
+}
+
+stat_test_summary

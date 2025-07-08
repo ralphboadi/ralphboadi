@@ -1,0 +1,23 @@
+KPI Summary 
+-----------------
+Scoring Conversion Rate 
+--------------------------------------------------------------------------------- 
+group | Conversion Rate |
+-------------------------                         
+A     |   0.000         |
+B     |   0.032         |
+
+| KPI's                       | Group A (Standard Ball) | Group B (Lightweight Ball) |
+| --------------------------- | ----------------------- | -------------------------- |
+|   Avg Pass Accuracy         | 73.1%                   |   81.8%                    |
+|   Avg Shots on Target       | 0.61                    |   1.18                     |
+|   Avg Goals                 | 0.00                    |   0.03                     |
+|   Avg Possession (%)        | 49.6%                   |   50.6%                    |
+|   Scoring Conversion Rate   | 0.0%                    |   3.2%                     |
+
+Interpretation:
+Group B outperforms Group A in every key metric.
+Most importantly:
+Pass accuracy is significantly better (81.8% vs 73.1%).
+Players with the new ball hit more shots on target and scored more often.
+Small increase in possession % and scoring rate too.

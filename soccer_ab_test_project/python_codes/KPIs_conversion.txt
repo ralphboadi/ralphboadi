@@ -1,0 +1,25 @@
+import pandas as pd
+
+# Load the dataset
+df_soccer = pd.read_csv(r"C:\Users\Kweku\Dropbox\PC\Desktop\data analyst portfolio pratices and project\soccer_ab_test_project\data\soccer_ab_testing_dataset.csv")
+
+# Add calculated KPIs to the dataset
+df_soccer["pass_accuracy"] = df_soccer["pass_completed"] / df_soccer["pass_attempts"]
+df_soccer["conversion_rate"] = (df_soccer["goals"] > 0).astype(int)  # binary: did player score or not
+
+# Group by A/B group and calculate average KPIs
+kpi_summary = df_soccer.groupby("group").agg({
+    "pass_accuracy": "mean",
+    "shots_on_target": "mean",
+    "goals": "mean",
+    "possession_pct": "mean",
+    "conversion_rate": "mean"  # proportion of players who scored at least one goal
+}).rename(columns={
+    "pass_accuracy": "Avg Pass Accuracy",
+    "shots_on_target": "Avg Shots on Target",
+    "goals": "Avg Goals",
+    "possession_pct": "Avg Possession (%)",
+    "conversion_rate": "Scoring Conversion Rate"
+})
+
+print(kpi_summary.round(3))
