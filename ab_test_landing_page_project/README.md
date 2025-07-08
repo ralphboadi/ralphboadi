@@ -59,7 +59,7 @@ To test whether users in Group B (who saw a new landing page) converted at a sig
 ### 📌 Result:
 - **Z-statistic**: -1.3998  
 - **P-value**: 0.1616  
-- **Conclusion**: Since the p-value is 0.168 means there's a 16.8% chance the difference is due to random variation. 
+- **Conclusion**: Since the p-value is 0.168 means there's a 16.8% chance the difference is due to random variation
 
 ---
 
