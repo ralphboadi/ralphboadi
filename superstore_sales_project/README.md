@@ -25,14 +25,21 @@ This project delivers a full-cycle business intelligence solution for retail dat
 
 ##  Key Business Insights
 # Regional Analysis
-| Region           | Highlights |
-|---------------------|--------------------------|
-| West         | Highest profit and strong margins across categories |
-| East         | Balanced sales in furniture and technology |
-| Central      | High Sales volume, low margin, possible over discounting |
-|South         |Technology dominates profits share |
 
-## Product Catergory Analysis
+| Region       | Total Sales   | Total Profit  | Quantity Sold | Profit Margin |
+|--------------|---------------|---------------|----------------|----------------|
+| West         | $725,457.82   | $108,418.45   | 10,595         | 15%            |
+| East         | $678,781.52   | $96,479.79    | 10,037         | 14%            |
+| Central      | $501,239.89   | $38,005.41    | 9,319          | 8%             |
+| South        | $391,721.63   | $43,493.37    | 7,922          | 11%            |
+
+## 🔍 Key Insights
+
+- West region generates the highest sales and profit, with a strong profit margin of 15%.
+- South has the lowest sales volume, but a relatively healthy 11% margin.
+- Central lags in profit margin, suggesting inefficiencies or lower-margin product sales.
+
+## Product Catergory Analysis (per region)
 - **Technology:** High margin, top performing across all regions
 - **Office Supplies:** Strong sales volume, weaker margins
 - **Furniture:** Solid Performance in East and South, underwhelming in Central
