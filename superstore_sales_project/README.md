@@ -33,28 +33,28 @@ This project delivers a full-cycle business intelligence solution for retail dat
 | Central      | $501,239.89   | $38,005.41    | 9,319          | 8%             |
 | South        | $391,721.63   | $43,493.37    | 7,922          | 11%            |
 
-## 🔍 Key Insights
+# Key Insights
 
 - West region generates the highest sales and profit, with a strong profit margin of 15%.
 - South has the lowest sales volume, but a relatively healthy 11% margin.
 - Central lags in profit margin, suggesting inefficiencies or lower-margin product sales.
 
 ## Product Catergory Analysis (per region)
-### West Region
+# West Region
 - Technology leads in both sales and profit, with strong profit margins.
 - Office Supplies sell well in volume but have lower margins.
 - Discounts are modest across categories.
 
-### East Region
+# East Region
 - Strong performance in **Furniture** and **Technology**.
 - Office Supplies again show high quantity but moderate margins.
 
-### Central Region
+# Central Region
 - High volume of Office Supplies, but relatively low profit and profit margin.
 - May indicate high discounting or low-margin product mix.
 - Furniture and Technology underperform relative to other regions.
 
-### South Region
+# South Region
 - Technology is dominant in sales and margin.
 - Furniture has relatively higher profit margin than Office Supplies.
 
@@ -68,7 +68,7 @@ This project delivers a full-cycle business intelligence solution for retail dat
 | Tables       | $206,966   | -$17,725   | 1,241    | -0.09          | 0.26          |
 | Binders      | $203,413   | $30,222    | 5,974    | 0.15           | 0.37          |
 
-## ⚠️ Insights
+## Insights
 
 - Phones lead in total sales and generate solid profits.
 - Copiers have the highest profit margin (0.37) despite fewer sales — a premium segment.
