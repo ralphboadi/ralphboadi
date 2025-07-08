@@ -12,7 +12,7 @@ To test whether users in Group B (who saw a new landing page) converted at a sig
 
 ##  Dataset Overview
 
-- **500 users**
+- **501 users**
 - Randomly split into Group A (control) and Group B (treatment)
 - Columns:
   - `user_id`
@@ -67,11 +67,11 @@ To test whether users in Group B (who saw a new landing page) converted at a sig
 
 - **Null Hypothesis (H₀):**
 - The conversion rates of Group A and Group are equal.
-    -- Symbolically: pA = pB
+    - Symbolically: pA = pB
 
 - **Alternative Hypothesis (H₁):**
 - The conversion rates of Group A and Group B are not equal
-    -- Symbolically: pA ≠ pB
+    - Symbolically: pA ≠ pB
 
 ## What This Means
 - p-value was 0.168, so:
