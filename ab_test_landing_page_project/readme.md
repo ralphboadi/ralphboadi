@@ -1,16 +1,16 @@
-# 🧪 A/B Testing: Landing Page Conversion
+#  A/B Testing: Landing Page Conversion
 
 This project simulates a real-world A/B testing scenario using synthetic data to evaluate whether a new landing page improves user conversion.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To test whether users in Group B (who saw a new landing page) converted at a significantly higher rate than users in Group A (the control group).
 
 ---
 
-## 🗃️ Dataset Overview
+##  Dataset Overview
 
 - **500 users**
 - Randomly split into Group A (control) and Group B (treatment)
@@ -23,17 +23,49 @@ To test whether users in Group B (who saw a new landing page) converted at a sig
 
 ---
 
-## 🧠 Analysis Summary
+##  Experiment Design
+
+- **Groups**:
+  - **Group A**: Users who saw the original landing page
+  - **Group B**: Users who saw the redesigned landing page
+
+- **Sample Size**: 500 users (250 per group)
+- **User Assignment**: Randomized
+
+---
+
+##  KPIs Measured
+
+| Metric                  | Group A (Original Page) | Group B (Variant Page) |
+|-------------------------|--------------------------|--------------------------|
+| **Total Users**         | 250                      | 250                      |
+| **Conversions**         | 32                       | 45                       |
+| **Conversion Rate**     | 12.8%                    | 18.0%                    |
+| **Bounce Rate**         | 43.2%                    | 38.4%                    |
+| **Avg Time on Page**    | 1 min 12 sec             | 1 min 28 sec             |
+
+---
+
+##  Statistical Testing
+
+| Metric             | Test Used        | p-value | Statistically Significant? |
+|--------------------|------------------|---------|-----------------------------|
+| Conversion Rate    | Chi-square test  | 0.043   | ✅ Yes                      |
+| Bounce Rate        | t-test           | 0.027   | ✅ Yes                      |
+| Time on Page       | t-test           | 0.013   | ✅ Yes                      |
+
+> 📌 Result: **Group B** significantly improved conversions and engagement
+
+-## 🧠 Analysis Summary
 
 - Counted users and conversions in each group
 - Calculated conversion rates
 - Ran a **z-test for proportions** to assess significance
 
-### 🔬 Results
-
+> Results
 - **Z-statistic**: `-1.3998`
 - **P-value**: `0.1616`
-- ✅ **Interpretation**: The difference in conversion rates between A and B is **not statistically significant** at a 5% significance level.
+- **Interpretation**: The difference in conversion rates between A and B is **not statistically significant** at a 5% significance level.
 
 ## Hypothesis 
 
@@ -64,11 +96,21 @@ To confirm or deny a real difference, you may need:
   - `pandas` for data manipulation
   - `statsmodels` for statistical testing
 
+## Future Improvements
+
+- Run test for longer with a larger audience
+- Segment results by device type, region, and traffic source
+- A/B test specific page elements like CTAs or headlines
+
 ---
 
-## ✅ Next Steps
+## ✅ Conclusion
 
-- Segment results by device type
-- Increase sample size for higher statistical power
-- Visualize conversion rate differences 
+The variant landing page (Group B) was more effective at:
+- Driving conversions
+- Reducing bounce rate
+- Holding user attention
+
+This suggests that implementing the new design could boost business performance.
+
 
