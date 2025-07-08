@@ -14,10 +14,10 @@ This analysis ranks the sub-categories by total sales and evaluates performance 
 
 ## ⚠️ Insights
 
-- **Phones** lead in total sales and generate solid profits.
-- **Copiers** have the highest **profit margin** (0.37) despite fewer sales — a premium segment.
-- **Tables** and **Bookcases** report **negative profit**, likely due to deep discounting or high cost structure.
-- **Binders** and **Chairs** sell in high volume but operate on thinner margins.
+- Phones lead in total sales and generate solid profits.
+- Copiers have the highest profit margin (0.37) despite fewer sales — a premium segment.
+- Tables and Bookcases report negative profit, likely due to deep discounting or high cost structure.
+- Binders and Chairs sell in high volume but operate on thinner margins.
 
 ## 📌 Recommendation
 
