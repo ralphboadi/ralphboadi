@@ -45,8 +45,6 @@ This project delivers a full-cycle business intelligence solution for retail dat
 - Order Frequency
 - Region & Segment 
 
----
-
 ## Segmentation Tiers 
 | segment label          | Sales Threshold  |
 |---------------------|--------------------------|
@@ -56,7 +54,6 @@ This project delivers a full-cycle business intelligence solution for retail dat
 | Bronze     | < $1,000 |
 | Red         | $0      |
 
----
 
 ## Key Insights
 - Top 10% of customers genereate over 40% of total profit.
@@ -64,21 +61,15 @@ This project delivers a full-cycle business intelligence solution for retail dat
 - Profitablity varies significantly by region. West region customers show highest average profit per person.
 - The Central region has many frequent but lower-profit customers.
 
----
-
 ## SQL Highlights
 - Joined datasets to enrich customer and order info
 - Aggregated sales and profit using GROUP BY
 - Created tiered segments with CASE statements for classification
 
----
-
 ## Business Impact
 - Prioritize high-value customers in retention campaigns
 - Adjust discounting strategies to improve Central region margins
 - Optimize inventory for high-margin categories
-
----
 
 ## Outcome
 
