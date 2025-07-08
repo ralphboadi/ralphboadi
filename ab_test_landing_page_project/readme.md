@@ -50,9 +50,9 @@ To test whether users in Group B (who saw a new landing page) converted at a sig
 
 | Metric             | Test Used        | p-value | Statistically Significant? |
 |--------------------|------------------|---------|-----------------------------|
-| Conversion Rate    | Chi-square test  | 0.043   | ✅ Yes                      |
-| Bounce Rate        | t-test           | 0.027   | ✅ Yes                      |
-| Time on Page       | t-test           | 0.013   | ✅ Yes                      |
+| Conversion Rate    | Chi-square test  | 0.043   |    Yes                      |
+| Bounce Rate        | t-test           | 0.027   |    Yes                      |
+| Time on Page       | t-test           | 0.013   |    Yes                      |
 
 > 📌 Result: **Group B** significantly improved conversions and engagement
 
@@ -90,7 +90,7 @@ To confirm or deny a real difference, you may need:
 
 ![Landing Page A/B Testing Visualizations](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/dashboad%20preview/dashboard%20preview.png)
 
-## 📦 Tools Used
+## Tools Used
 
 - **Python**
   - `pandas` for data manipulation
@@ -104,7 +104,7 @@ To confirm or deny a real difference, you may need:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The variant landing page (Group B) was more effective at:
 - Driving conversions
