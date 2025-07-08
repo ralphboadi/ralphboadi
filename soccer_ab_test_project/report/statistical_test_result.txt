@@ -1,0 +1,25 @@
+Here's what the t-test and chi-square test revealed:
+
+T-Test(Numeric KPI's)
+| KPI                 | t-Statistic | p-Value  | Statistically Significant? |
+| ------------------- | ----------- | -------- | -------------------------- |
+|   Pass Accuracy     | -13.97      | 4.16e-33 |   Yes (very significant)   |
+|   Shots on Target   | -5.33       | 2.19e-07 |   Yes                      |
+|   Goals             | -2.02       | 0.044    |   Yes (barely significant) |
+|   Possession (%)    | -1.34       | 0.183    |   No                       |
+
+Chi-Sqaure Test(Conversion Rate - Binary:Goal or No Goal)
+| Metric                     | Value |
+| -------------------------- | ----- |
+| Chi-square statistic       | 2.29  |
+| p-Value                    | 0.130 |
+| Statistically Significant? |   No  |
+
+Interpretation Summary
+- Lightweight Ball (Group B) resulted in significantly:
+    -Higher pass accuracy
+    -More shots on target
+    -More goals scored
+
+- Conversion Rate (scoring yes/no) wasn't statistically significant (likely due to small number of goals overall)
+- Possession % difference isn’t significant
