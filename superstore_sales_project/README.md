@@ -37,6 +37,23 @@ This project delivers a full-cycle business intelligence solution for retail dat
 - **Office Supplies:** Strong sales volume, weaker margins
 - **Furniture:** Solid Performance in East and South, underwhelming in Central
 
+##  Top Performing Sub-Categories by Sales
+
+| Sub-Category | Sales      | Profit     | Quantity | Profit Margin | Avg Discount |
+|--------------|------------|------------|----------|----------------|---------------|
+| Phones       | $330,007   | $44,516    | 3,289    | 0.13           | 0.15          |
+| Chairs       | $328,449   | $26,590    | 2,356    | 0.08           | 0.17          |
+| Storage      | $223,844   | $21,279    | 3,158    | 0.10           | 0.07          |
+| Tables       | $206,966   | -$17,725   | 1,241    | -0.09          | 0.26          |
+| Binders      | $203,413   | $30,222    | 5,974    | 0.15           | 0.37          |
+
+## ⚠️ Insights
+
+- Phones lead in total sales and generate solid profits.
+- Copiers have the highest profit margin (0.37) despite fewer sales — a premium segment.
+- Tables and Bookcases report negative profit, likely due to deep discounting or high cost structure.
+- Binders and Chairs sell in high volume but operate on thinner margins.
+
 ---
 
 ## Customer Segmentation Analysis 
