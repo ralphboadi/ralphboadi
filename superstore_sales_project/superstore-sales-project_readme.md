@@ -1,59 +1,29 @@
 
-# 🛒 Superstore Sales & Profit Analysis Dashboard
+# Superstore Sales & Profit Analysis Dashboard
 
 This project showcases a full-cycle data analysis using SQL and Power BI, based on the Superstore sales dataset. The analysis involves querying sales data, summarizing key metrics, and visualizing business insights to assist executive decision-making. This project blends business analysis and technical data skills. 
-
-## Project Structure 
-
-├── about the project
-├── tools used 
-├── dashboard preview
-├── key insights
-├── metrics
-├── customer segmentation analysis
-├── segmentation logic
-├── key insight
-├── sql queries
-├── business impact
     
-## 📂 Table of Contents
-- [About the Project](#about-the-project)
-- [Tools Used](#tools-used)
-- [Dashboard Preview](#dashboard-preview)
-- [Key Insights](#key-insights)
-- [Metrics Summary](metrics-summary)
-- [Customer Segementation Analysis](#customer-segmentation-analysis)
-- [Author](#author)
-
 ## 📌 About the Project
 
 This project simulates real-world data analysis for a retail company. It involves:
 - Writing SQL queries to analyze sales, profit, and regional trends.
 - Creating a Power BI dashboard for visual storytelling.
-- Documenting findings and sharing insights on GitHub.
 
-## 🧰 Tools Used
+## Tools Used
 
 - **SQL** (SSMS)
 - **Power BI** (Data visualization)
 - **Excel** (Data preparation)
 - **GitHub** (Version control & Documentation)
 
-## 📊 Dashboard Preview
+##  Key Insights
 
-This Power BI dashboard highlights:
-- Total Sales & Profit by Category/Sub-Category
-- Regional Profit Margin Analysis
-- Performance color-coded: 🔵 Blue for high values, 🔴 Red for low
+-  The **West** region had the highest total profit.
+-  The **Central** region had higher sales volume but lower profit margins.
+-  **Technology** and **Office Supplies** were top-performing categories.
+- Blue indicates higher values like sales and profit, Red indicates lower performance.
 
-## 🧠 Key Insights
-
-- 🔹 The **West** region had the highest total profit.
-- 🔸 The **Central** region had higher sales volume but lower profit margins.
-- 🔹 **Technology** and **Office Supplies** were top-performing categories.
-- 🔵 Blue indicates higher values like sales and profit, 🔴 Red indicates lower performance.
-
-## 🔢 Metrics Summary
+## Metrics Summary
 
 - **Total Sales:** $2,297,200.86
 - **Total Profit:** $286,397.02
@@ -64,7 +34,7 @@ This Power BI dashboard highlights:
 This project focuses on segmenting customers using the Superstore dataset to uncover key patterns and high-value groups. The aim is to support targeted marketing, improve customer retention, and drive profitability through data-driven insights.
 
 
-## 🧠 Segmentation Logic
+## Segmentation Logic
 
 Customers are segmented based on:
 
