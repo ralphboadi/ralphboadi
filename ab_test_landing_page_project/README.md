@@ -103,9 +103,7 @@ While Group B had a higher observed conversion rate, the statistical test indica
 ## 🔧 Future Improvements
 
 - Increase sample size
-- Segment users by device type or traffic source
 - Run the test for a longer time period
-- A/B test specific page elements (e.g., CTA buttons, headlines)
 
 ---
 
