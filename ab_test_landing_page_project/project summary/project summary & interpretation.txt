@@ -9,7 +9,7 @@
 
 ## Statistical Test
 
-We performed a z-test for two proportions** to evaluate if the difference in conversion rates is statistically significant.
+We performed a z-test for two proportions to evaluate if the difference in conversion rates is statistically significant.
 
 - Z-statistic: `-1.3998`
 - P-value: `0.1616`
