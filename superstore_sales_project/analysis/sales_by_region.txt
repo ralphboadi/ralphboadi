@@ -13,8 +13,8 @@ This analysis breaks down the Superstore's sales performance across four main re
 
 ## 🔍 Key Insights
 
-- **West** region generates the highest sales and profit, with a strong profit margin of 15%.
-- **South** has the lowest sales volume, but a relatively healthy 11% margin.
-- **Central** lags in profit margin, suggesting inefficiencies or lower-margin product sales.
+- West region generates the highest sales and profit, with a strong profit margin of 15%.
+- South has the lowest sales volume, but a relatively healthy 11% margin.
+- Central lags in profit margin, suggesting inefficiencies or lower-margin product sales.
 
 This breakdown can help prioritize regional marketing, inventory distribution, and support for underperforming areas.
