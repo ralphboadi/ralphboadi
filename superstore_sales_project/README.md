@@ -40,9 +40,23 @@ This project delivers a full-cycle business intelligence solution for retail dat
 - Central lags in profit margin, suggesting inefficiencies or lower-margin product sales.
 
 ## Product Catergory Analysis (per region)
-- **Technology:** High margin, top performing across all regions
-- **Office Supplies:** Strong sales volume, weaker margins
-- **Furniture:** Solid Performance in East and South, underwhelming in Central
+### West Region
+- Technology leads in both sales and profit, with strong profit margins.
+- Office Supplies sell well in volume but have lower margins.
+- Discounts are modest across categories.
+
+### East Region
+- Strong performance in **Furniture** and **Technology**.
+- Office Supplies again show high quantity but moderate margins.
+
+### Central Region
+- High volume of Office Supplies, but relatively low profit and profit margin.
+- May indicate high discounting or low-margin product mix.
+- Furniture and Technology underperform relative to other regions.
+
+### South Region
+- Technology is dominant in sales and margin.
+- Furniture has relatively higher profit margin than Office Supplies.
 
 ##  Top Performing Sub-Categories by Sales
 
