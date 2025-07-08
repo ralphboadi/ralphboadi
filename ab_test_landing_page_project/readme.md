@@ -54,6 +54,10 @@ To confirm or deny a real difference, you may need:
 
 ---
 
+## 📊 Visualizations
+
+![Landing Page A/B Testing Visualizations](soccer_ab_testing_visualizations.png)
+
 ## 📦 Tools Used
 
 - **Python**
