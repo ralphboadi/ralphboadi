@@ -4,9 +4,6 @@ import pandas as pd
 # Load the dataset
 df = pd.read_csv('ab_test_synthetic_500_users.csv')
 
-# Load the dataset
-df = pd.read_csv('ab_test_synthetic_500_users.csv')
-
 # User count per group
 group_counts = df['group'].value_counts()
 print("\nUser count per group:\n", group_counts)
