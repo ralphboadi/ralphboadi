@@ -40,7 +40,7 @@ This project delivers a full-cycle business intelligence solution for retail dat
 - Central lags in profit margin, suggesting inefficiencies or lower-margin product sales.
 
 ### Product Catergory Analysis (per region)
-##### West Region
+#### West Region
 - Technology leads in both sales and profit, with strong profit margins.
 - Office Supplies sell well in volume but have lower margins.
 - Discounts are modest across categories.
@@ -68,7 +68,7 @@ This project delivers a full-cycle business intelligence solution for retail dat
 | Tables       | $206,966   | -$17,725   | 1,241    | -0.09          | 0.26          |
 | Binders      | $203,413   | $30,222    | 5,974    | 0.15           | 0.37          |
 
-### Insights
+#### Insights
 
 - Phones lead in total sales and generate solid profits.
 - Copiers have the highest profit margin (0.37) despite fewer sales — a premium segment.
