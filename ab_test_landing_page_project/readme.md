@@ -56,7 +56,7 @@ To confirm or deny a real difference, you may need:
 
 ## 📊 Visualizations
 
-![Landing Page A/B Testing Visualizations](soccer_ab_testing_visualizations.png)
+![Landing Page A/B Testing Visualizations](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/dashboad%20preview/dashboard%20preview.png)
 
 ## 📦 Tools Used
 
