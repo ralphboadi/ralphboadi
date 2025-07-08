@@ -66,7 +66,7 @@ To test whether users in Group B (who saw a new landing page) converted at a sig
 ## 🧪 Hypotheses
 
 - **Null Hypothesis (H₀):**
-- The conversion rates of Group A and Group are equal.
+- The conversion rates of Group A and Group are equal
     - Symbolically: pA = pB
 
 - **Alternative Hypothesis (H₁):**
