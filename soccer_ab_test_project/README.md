@@ -58,7 +58,7 @@ To determine whether using a **lightweight football** improves match performance
 
 Visualizations
 
-![Soccer A/B Testing Visualizations](soccer_ab_testing_visualizations.png)
+![Soccer A/B Testing Visualizations](https://github.com/ralphboadi/ralphboadi/blob/main/soccer_ab_test_project/dashboard%20preview/soccer_ab_testing_visualizations.png)
 
 ---
 
