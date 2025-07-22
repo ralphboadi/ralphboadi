@@ -36,7 +36,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ---
 
 ## Next Project
-### Using Generative AI to mimic a real-world Oil & Gas Project as a Analyst  
+### Using Generative AI to mimic a real-world Oil & Gas Project as Analyst  
 This project will simulates a real-world oilfield monitoring system using synthetic well data. It demonstrates how a data analyst can use SQL and Excel to track well performance, detect high-pressure alerts, analyze production trends, and support operational decisions.
 
 ## Let's Connect
