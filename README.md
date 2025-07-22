@@ -35,6 +35,10 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ---
 
+## Next Project 
+### Oil & Gas 
+This project will simulates a real-world oilfield monitoring system using synthetic well data. It demonstrates how a data analyst can use SQL and Excel to track well performance, detect high-pressure alerts, analyze production trends, and support operational decisions.
+
 ## Let's Connect
 
 - Email: ralphboadi@gmail.com  
