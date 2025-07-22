@@ -37,7 +37,12 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ## Next Project
 ### Using Generative AI to mimic a real-world Oil & Gas Project as Analyst  
-This project will simulates a real-world oilfield monitoring system using synthetic well data. It demonstrates how a data analyst can use SQL and Excel to track well performance, detect high-pressure alerts, analyze production trends, and support operational decisions.
+How I'll use Generative AI:
+ -  Use Generative AI to create synthetic time-series data for oil wells, pumps, sensors, pressure, temperature, depth etc
+  - Use Generative AI to generate predictive models that mimic real resrvoir or well behavior
+  - Use Generative AI to write and optimize SQL or ETL scripts for complex joins, data cleansing or aggregations
+  - Use AI to simulate operatinal changes like shut-ins, flowline leaks, equipment upgrades
+  - Use **LLMS** to auto-explain dashboard insights, generate alert messages, or recommend actions
 
 ## Let's Connect
 
