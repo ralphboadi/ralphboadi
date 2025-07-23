@@ -15,7 +15,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ---
 
 ### A/B Testing: Landing Page Conversion Experiment
-**Tools:** Python (Pandas, Statsmodels), Synthetic Dataset  
+**Tools:** Python (Pandas, Statsmodels), Excel 
 - Simulated an A/B test with 500 users (control vs treatment groups)  
 - Measured conversion rates and ran a statistical significance test  
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/README.md)
