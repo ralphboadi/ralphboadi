@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ralph Boadi
+l# 👋 Hi, I'm Ralph Boadi
 
 I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **SQL**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions.
 
@@ -41,7 +41,7 @@ How I'll use Generative AI:
  -  Use Generative AI to create synthetic time-series data for oil wells, pumps, sensors, pressure, temperature, depth etc
   - Use Generative AI to generate predictive models that mimic real resrvoir or well behavior
   - Use Generative AI to write and optimize SQL or ETL scripts for complex joins, data cleansing or aggregations
-  - Use AI to simulate operatinal changes like shut-ins, flowline leaks, equipment upgrades
+  - Use AI to simulate operational changes like shut-ins, flowline leaks, equipment upgrades
   - Use **LLMS** to auto-explain dashboard insights, generate alert messages, or recommend actions
 
 ## Let's Connect
