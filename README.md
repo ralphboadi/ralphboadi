@@ -1,4 +1,4 @@
-l# 👋 Hi, I'm Ralph Boadi
+# 👋 Hi, I'm Ralph Boadi
 
 I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **SQL**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions.
 
