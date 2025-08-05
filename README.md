@@ -7,7 +7,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ## 📁 Portfolio Projects
 
 ### Superstore Sales & Revenue Dashboard
-**Tools:** Power BI, PostgreSQL, Excel  
+**Tools:** Power BI, SSMS, Excel  
 - Built an interactive dashboard analyzing sales across region, category, and sub-category 
 - Used SSMS for data preparation and Power BI for clean, actionable visuals  
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/superstore_sales_project/README.md)
