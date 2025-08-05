@@ -23,7 +23,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ---
 
 ### A/B Testing: Soccer Ball Testing Analysis – Lightweight vs Standard Ball
-- To determine whether using a **lightweight football** improves match performance metrics such as:
+- To determine whether using a **lightweight football** improves match performance metrics
 - Measured conversion rates and ran a statistical significance test
 - Simulated an A/B test with 250 players (125 per group)
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/soccer_ab_test_project/README.md)
