@@ -14,7 +14,6 @@ This project delivers a full-cycle business intelligence solution for retail dat
 - **SQL** (SSMS)
 - **Power BI** (Data visualization)
 - **Excel** (Data preparation)
-- **GitHub** (Version control & Documentation)
 
 ## Metrics Summary
 
