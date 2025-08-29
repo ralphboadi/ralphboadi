@@ -36,7 +36,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ---
 
 ## Next Project
- -- Data Normalization and Data Cleaning 
+ Data Normalization and Data Cleaning 
 
 ---
 
