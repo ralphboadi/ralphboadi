@@ -11,13 +11,14 @@ This project focues on normalizing synthetic oil & gas production data to create
 
 ## Problems & Solutions 
   - What was wrong with the raw table? 
-    ** The table had redundacy in operator info, well info, production info and sensor info all grouped together under one table called raw_transactions.
+      - The table had redundacy in operator info, well info, production info and sensor info all grouped together under one table called raw_transactions.
   - How I normalized the table? 
-    ** I created separate tables for operators, wells, production and sensor readings. Used **foreign keys** to link these new tables to each other, creating a normalized relational database. And the raw data from the raw_transactions table was loaded into the newly created tables by using the normalization process. 
-  - What insights schema/ERD now supports? 
+      - I created separate tables for operators, wells, production and sensor readings. Used **foreign keys** to link these new tables to each other, creating a normalized relational database. And the raw data from the raw_transactions table was loaded into the newly created tables by using the normalization process. 
+  - What insights schema/ERD now supports?
+      - The new normalized schema/ERD allow for efficient querying, analysis, and reporting on the data.
+      - The separation of the distinct tables elimates redundancy, reduces risk of data anomalies, and ensure data consistency.
+      - Relationships can be identified between operators, wells production and sensor readings data which was not possible with the single unnormalized table. 
   
-
---
 ## Steps Used to Normalize Data 
   - Loaded raw data into the raw_transactions table created in PgAdmin 4, PostgresSQL.
   - Explored and analyzed the raw_transactions table to understand dataset and identified table has redundancy: 1NF (First Normal Form)
@@ -29,4 +30,5 @@ This project focues on normalizing synthetic oil & gas production data to create
   - Added **constraints & foreign keys** to make sure referential integrity is enforced; 3NF (Third Normal Form). 
 
 -- 
+
 
