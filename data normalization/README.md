@@ -49,7 +49,8 @@ This project focues on normalizing synthetic oil & gas production data to create
   - What insights schema/Entity Relationship Diagram (ERD) now supports?
       - The new normalized schema/ERD allow for efficient querying, analysis, and reporting on the data.
       - The separation of the distinct tables elimates redundancy, reduces risk of data anomalies, and ensure data consistency.
-      - Relationships can be identified between operators, wells production and sensor readings data which was not possible with the single unnormalized table.
+      - Relationships can be identified between operators, wells, production and sensor readings data which was not possible with the single unnormalized table.
+
 
 
 
