@@ -28,7 +28,7 @@ This project focuses on normalizing synthetic oil & gas production data to creat
   - Loaded raw data into the raw_transactions table in PostgresSQL(PgAdmin 4).
   - Explored the raw data and identified table has redundancy: 1NF (First Normal Form).
   - Defined target structure to achieve 3NF (Third Normal Form). 
-  - Created normalized tables suth primary keys;2NF (Second Normal Form):
+  - Created normalized tables with primary keys;2NF (Second Normal Form):
     - operators Table
     - wells Table
     - production Table 
