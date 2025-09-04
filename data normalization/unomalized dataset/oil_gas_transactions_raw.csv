@@ -1,0 +1,61 @@
+record_id,field_name,well_id,well_name,operator_name,operator_address,operator_phone,sensor_type,sensor_id,reading_value,reading_unit,production_date,product_type,volume_bbl,revenue_usd
+1,Alberta Field A,ALB-W01,A-1,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W01-F-1,1082.55,bbl/day,2025-07-08,Condensate,388.55,24912.11
+2,Alberta Field A,ALB-W01,A-1,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W01-T-2,2168.25,°C,2025-08-23,Gas,165.95,15069.3
+3,Alberta Field A,ALB-W01,A-1,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W01-P-3,1965.17,psi,2025-07-24,Gas,256.58,16018.73
+4,Alberta Field A,ALB-W02,A-2,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W02-T-3,1756.31,°C,2025-07-04,Condensate,593.23,46505.09
+5,Alberta Field A,ALB-W02,A-2,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W02-P-1,1349.2,psi,2025-07-12,Condensate,174.77,12134.79
+6,Alberta Field A,ALB-W02,A-2,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W02-P-3,2932.26,psi,2025-07-04,Gas,157.55,9387.42
+7,Alberta Field A,ALB-W03,A-3,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W03-F-3,2275.23,bbl/day,2025-07-12,Oil,218.12,20426.2
+8,Alberta Field A,ALB-W03,A-3,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W03-T-2,1687.41,°C,2025-07-16,Oil,422.13,35226.73
+9,Alberta Field A,ALB-W03,A-3,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W03-P-3,2020.88,psi,2025-07-30,Condensate,512.2,33254.01
+10,Alberta Field A,ALB-W04,A-4,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W04-P-1,1134.36,psi,2025-07-04,Gas,289.88,25251.46
+11,Alberta Field A,ALB-W04,A-4,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W04-F-3,1386.65,bbl/day,2025-07-20,Oil,295.83,20091.35
+12,Alberta Field A,ALB-W04,A-4,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W04-F-2,2860.25,bbl/day,2025-07-04,Condensate,475.4,34369.12
+13,Alberta Field A,ALB-W05,A-5,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W05-T-3,2651.03,°C,2025-08-09,Oil,407.45,36044.85
+14,Alberta Field A,ALB-W05,A-5,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W05-F-2,2124.93,bbl/day,2025-08-27,Condensate,292.83,15750.53
+15,Alberta Field A,ALB-W05,A-5,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W05-F-3,2946.71,bbl/day,2025-08-25,Condensate,120.3,6255.07
+16,Alberta Field B,ALB-W01,B-1,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W01-T-1,2975.5,°C,2025-07-07,Gas,238.95,20740.9
+17,Alberta Field B,ALB-W01,B-1,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W01-F-1,2506.92,bbl/day,2025-07-02,Gas,383.04,25682.61
+18,Alberta Field B,ALB-W01,B-1,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W01-P-1,1103.89,psi,2025-08-20,Condensate,471.4,23744.73
+19,Alberta Field B,ALB-W02,B-2,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W02-F-2,2603.89,bbl/day,2025-07-22,Condensate,240.9,20605.85
+20,Alberta Field B,ALB-W02,B-2,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W02-F-1,2105.73,bbl/day,2025-07-25,Oil,219.07,16430.75
+21,Alberta Field B,ALB-W02,B-2,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W02-P-3,2407.19,psi,2025-08-23,Oil,250.49,17985.69
+22,Alberta Field B,ALB-W03,B-3,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W03-F-2,2404.5,bbl/day,2025-08-27,Condensate,353.43,20040.34
+23,Alberta Field B,ALB-W03,B-3,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W03-F-1,2751.55,bbl/day,2025-08-27,Gas,302.16,23382.4
+24,Alberta Field B,ALB-W03,B-3,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W03-T-2,1359.31,°C,2025-08-12,Condensate,220.55,14250.62
+25,Alberta Field B,ALB-W04,B-4,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W04-F-3,2387.18,bbl/day,2025-08-15,Gas,111.88,7714.7
+26,Alberta Field B,ALB-W04,B-4,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W04-P-3,1731.75,psi,2025-07-11,Condensate,158.23,13994.68
+27,Alberta Field B,ALB-W04,B-4,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Flow Rate,ALB-W04-F-3,2699.7,bbl/day,2025-08-14,Condensate,479.54,24327.02
+28,Alberta Field B,ALB-W05,B-5,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W05-P-2,1885.71,psi,2025-07-08,Gas,195.85,14181.35
+29,Alberta Field B,ALB-W05,B-5,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Temperature,ALB-W05-T-3,1436.64,°C,2025-06-30,Condensate,151.78,13935.7
+30,Alberta Field B,ALB-W05,B-5,Shell Canada,"400 Petro Rd, Calgary",403-555-4444,Pressure,ALB-W05-P-2,2001.09,psi,2025-07-17,Oil,202.11,16344.93
+31,Saskatchewan Field C,SAS-W01,C-1,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Flow Rate,SAS-W01-F-2,1668.46,bbl/day,2025-07-25,Condensate,122.38,7231.94
+32,Saskatchewan Field C,SAS-W01,C-1,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Temperature,SAS-W01-T-1,1839.94,°C,2025-08-26,Gas,593.83,39046.98
+33,Saskatchewan Field C,SAS-W01,C-1,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Temperature,SAS-W01-T-3,2509.82,°C,2025-06-30,Oil,326.86,26874.52
+34,Saskatchewan Field C,SAS-W02,C-2,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Pressure,SAS-W02-P-1,1489.34,psi,2025-07-26,Gas,110.93,9794.1
+35,Saskatchewan Field C,SAS-W02,C-2,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Pressure,SAS-W02-P-2,1147.77,psi,2025-07-25,Condensate,226.12,11873.83
+36,Saskatchewan Field C,SAS-W02,C-2,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Flow Rate,SAS-W02-F-2,2652.2,bbl/day,2025-07-19,Oil,464.95,40951.4
+37,Saskatchewan Field C,SAS-W03,C-3,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Flow Rate,SAS-W03-F-1,2811.24,bbl/day,2025-08-27,Condensate,545.4,50232.99
+38,Saskatchewan Field C,SAS-W03,C-3,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Flow Rate,SAS-W03-F-1,1706.24,bbl/day,2025-07-26,Gas,597.16,42908.61
+39,Saskatchewan Field C,SAS-W03,C-3,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Temperature,SAS-W03-T-3,1938.76,°C,2025-07-19,Gas,161.3,14400.8
+40,Saskatchewan Field C,SAS-W04,C-4,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Temperature,SAS-W04-T-1,2202.25,°C,2025-08-16,Gas,150.16,10666.15
+41,Saskatchewan Field C,SAS-W04,C-4,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Flow Rate,SAS-W04-F-2,1793.03,bbl/day,2025-06-30,Gas,279.13,15035.26
+42,Saskatchewan Field C,SAS-W04,C-4,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Temperature,SAS-W04-T-2,2672.19,°C,2025-07-03,Gas,264.85,19463.75
+43,Saskatchewan Field C,SAS-W05,C-5,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Pressure,SAS-W05-P-1,1749.69,psi,2025-07-02,Gas,588.17,50293.48
+44,Saskatchewan Field C,SAS-W05,C-5,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Pressure,SAS-W05-P-3,2171.67,psi,2025-08-05,Oil,171.61,15655.43
+45,Saskatchewan Field C,SAS-W05,C-5,Cenovus Energy,"200 Oil Ave, Edmonton",780-555-2222,Temperature,SAS-W05-T-2,1686.55,°C,2025-07-19,Oil,340.39,28943.66
+46,Saskatchewan Field D,SAS-W01,D-1,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W01-F-2,1477.27,bbl/day,2025-07-26,Oil,398.63,30461.5
+47,Saskatchewan Field D,SAS-W01,D-1,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Temperature,SAS-W01-T-1,1779.62,°C,2025-07-18,Gas,374.64,22586.74
+48,Saskatchewan Field D,SAS-W01,D-1,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W01-F-3,2674.24,bbl/day,2025-08-15,Oil,227.28,22725.7
+49,Saskatchewan Field D,SAS-W02,D-2,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W02-F-1,2737.67,bbl/day,2025-08-18,Condensate,118.2,8674.87
+50,Saskatchewan Field D,SAS-W02,D-2,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W02-F-1,2327.84,bbl/day,2025-07-23,Condensate,513.04,40550.93
+51,Saskatchewan Field D,SAS-W02,D-2,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W02-F-1,1183.52,bbl/day,2025-07-31,Condensate,220.44,13350.7
+52,Saskatchewan Field D,SAS-W03,D-3,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Pressure,SAS-W03-P-3,2986.74,psi,2025-08-24,Condensate,148.62,11694.98
+53,Saskatchewan Field D,SAS-W03,D-3,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W03-F-3,1635.38,bbl/day,2025-08-18,Gas,164.98,8533.23
+54,Saskatchewan Field D,SAS-W03,D-3,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W03-F-1,1000.6,bbl/day,2025-07-10,Gas,133.89,12107.82
+55,Saskatchewan Field D,SAS-W04,D-4,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Temperature,SAS-W04-T-2,2172.26,°C,2025-08-12,Gas,157.68,10750.57
+56,Saskatchewan Field D,SAS-W04,D-4,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Pressure,SAS-W04-P-2,2387.61,psi,2025-07-17,Gas,501.5,44399.93
+57,Saskatchewan Field D,SAS-W04,D-4,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W04-F-1,1394.34,bbl/day,2025-06-30,Oil,470.41,25207.06
+58,Saskatchewan Field D,SAS-W05,D-5,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Flow Rate,SAS-W05-F-2,1246.83,bbl/day,2025-07-10,Gas,218.69,16902.41
+59,Saskatchewan Field D,SAS-W05,D-5,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Temperature,SAS-W05-T-3,1981.47,°C,2025-08-25,Condensate,549.07,42839.24
+60,Saskatchewan Field D,SAS-W05,D-5,Imperial Oil,"300 Energy Blvd, Calgary",403-555-3333,Temperature,SAS-W05-T-1,1135.71,°C,2025-08-26,Condensate,100.59,8484.87
