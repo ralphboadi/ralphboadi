@@ -21,7 +21,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/README.md)
 
 ### A/B Testing: Soccer Ball Testing Analysis – Lightweight vs Standard Ball
-- To determine whether using a **lightweight football** improves match performance metrics
+- Dstermined whether using a **lightweight football** improves match performance metrics
 - Measured conversion rates and ran a statistical significance test
 - Simulated an A/B test with 250 players (125 per group)
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/soccer_ab_test_project/README.md)
@@ -30,7 +30,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 
 ### Oil & Gas Production Data Normalization
  **Tools:** Python, PostgreSQL, Excel
- - To normalize synthetic oil & gas production data to create, structured database optimzed for analysis and reporting
+ - Normalized synthetic oil & gas production data to create, structured database optimzed for analysis and reporting
  - Reduced data redundancy and ensure consistency across tables using 1NF --> 2NF --> 3NF method of **data normaliation**
  - Showcase my understanding of Entity Relationship Diagram (ERD) after normalization to present relationship between tables
  - [[View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/data%20normalization/README.md)
