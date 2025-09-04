@@ -28,11 +28,11 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 - Simulated an A/B test with 250 players (125 per group)
 - [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/soccer_ab_test_project/README.md)
 
-## Oil & Gas Production Data Normalization
+### Oil & Gas Production Data Normalization
  - To normalize synthetic oil & gas production data to create, structured database optimzed for analysis and reporting
  - Reduced data redundancy and ensure consistency across tables using 1NF --> 2NF --> 3NF method of **data normaliation**
  - Showcase my understanding of Entity Relationship Diagram (ERD) after normalization to present relationship between tables
- - [[View Project →](
+ - [[View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/data%20normalization/README.md)
 
 ## Tools & Skills
 - **Languages/ Tools**: PostgreSQL,SSMS,Power BI, Python (Pandas, NumPy, Matplotlib), Excel
