@@ -1,0 +1,21 @@
+well_id,well_name,field_name,operator_id
+1,A-1,Alberta Field A,3
+2,A-2,Alberta Field A,3
+3,A-3,Alberta Field A,3
+4,A-4,Alberta Field A,3
+5,A-5,Alberta Field A,3
+6,B-1,Alberta Field B,3
+7,B-2,Alberta Field B,3
+8,B-3,Alberta Field B,3
+9,B-4,Alberta Field B,3
+10,B-5,Alberta Field B,3
+11,C-1,Saskatchewan Field C,2
+12,C-2,Saskatchewan Field C,2
+13,C-3,Saskatchewan Field C,2
+14,C-4,Saskatchewan Field C,2
+15,C-5,Saskatchewan Field C,2
+16,D-1,Saskatchewan Field D,1
+17,D-2,Saskatchewan Field D,1
+18,D-3,Saskatchewan Field D,1
+19,D-4,Saskatchewan Field D,1
+20,D-5,Saskatchewan Field D,1

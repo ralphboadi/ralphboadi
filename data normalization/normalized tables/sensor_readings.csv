@@ -1,0 +1,60 @@
+sensor_id,sensor_type,reading_unit
+1,Pressure,psi
+2,Temperature,°C
+3,Pressure,psi
+4,Flow Rate,bbl/day
+5,Pressure,psi
+6,Flow Rate,bbl/day
+7,Temperature,°C
+8,Flow Rate,bbl/day
+9,Flow Rate,bbl/day
+10,Flow Rate,bbl/day
+11,Flow Rate,bbl/day
+12,Flow Rate,bbl/day
+13,Pressure,psi
+14,Temperature,°C
+15,Flow Rate,bbl/day
+16,Flow Rate,bbl/day
+17,Temperature,°C
+18,Pressure,psi
+19,Pressure,psi
+20,Flow Rate,bbl/day
+21,Temperature,°C
+22,Pressure,psi
+23,Flow Rate,bbl/day
+24,Flow Rate,bbl/day
+25,Pressure,psi
+26,Flow Rate,bbl/day
+27,Pressure,psi
+28,Temperature,°C
+29,Pressure,psi
+30,Pressure,psi
+31,Flow Rate,bbl/day
+32,Flow Rate,bbl/day
+33,Flow Rate,bbl/day
+34,Temperature,°C
+35,Temperature,°C
+36,Temperature,°C
+37,Temperature,°C
+38,Temperature,°C
+39,Flow Rate,bbl/day
+40,Temperature,°C
+41,Flow Rate,bbl/day
+42,Pressure,psi
+43,Flow Rate,bbl/day
+44,Temperature,°C
+45,Flow Rate,bbl/day
+46,Pressure,psi
+47,Temperature,°C
+48,Temperature,°C
+49,Pressure,psi
+50,Flow Rate,bbl/day
+51,Flow Rate,bbl/day
+52,Temperature,°C
+53,Flow Rate,bbl/day
+54,Flow Rate,bbl/day
+55,Flow Rate,bbl/day
+56,Flow Rate,bbl/day
+57,Pressure,psi
+58,Flow Rate,bbl/day
+59,Pressure,psi
