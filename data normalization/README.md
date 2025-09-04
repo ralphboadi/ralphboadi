@@ -29,8 +29,8 @@ This project focues on normalizing synthetic oil & gas production data to create
   - Explored and analyzed the raw_transactions table to understand dataset and identified table has redundancy: 1NF (First Normal Form)
   - Decided Target Normal Form that is taking project to at least 3NF (Third Normal Form). 
   - Created 4 tables and their **primary key (PK)** respectively; Operators Table, Wells Table, Production Table & Sensor_readings Table; 2NF (Second Normal Form).
-  - Populated created tables by inserting distinct operators from raw_transactions table, inserted distinct wells linking to operators & fields; 2NF (Second Normal Form). 
-  - Inserted distinct sensors from raw_transactions and finally, inserted prodcution (fact table) from raw_transactions; 2NF (Second Normal Form).
+  - Populated created tables by inserting distinct operators from raw_transactions table, inserted distinct wells table linking to operators & production table; 2NF (Second Normal Form). 
+  - Inserted distinct sensors table from raw_transactions table and finally, inserted production (fact table) from raw_transactions; 2NF (Second Normal Form).
   - Verified there's no redundancy and run some joins to confirm the normalized structure matches the orignial raw data; 2NF (Second Normal Form).
   - Added **constraints & foreign keys** to make sure referential integrity is enforced; 3NF (Third Normal Form).
 
