@@ -36,7 +36,6 @@ This project focuses on normalizing synthetic oil & gas production data to creat
   - Inserted distinct values from raw_transactions into normalized tables; 2NF (Second Normal Form).
   - Established foreign keys to enforce referential integrity (2NF → 3NF).
   - Verified there's no redundancy and run some joins to confirm the normalized structure matches the orignial raw data; 2NF (Second Normal Form).
-  - Established foreign keys to enforce referential integrity (2NF → 3NF).
 
 ---
 ## Technologies Used
