@@ -18,7 +18,7 @@ This project focues on normalizing synthetic oil & gas production data to create
   - wells.well_id (PK) --> production.record_id (PK)
   - sensor_readings.sensor_id (PK) --> production.sensor_id(FK)
 ### Explanation: 
-    - 'Operators --> wells': one oeprator manages many wells. 
+    - 'Operators --> wells': one operator manages many wells. 
     - 'Wells --> production': one well generates many production records. 
     - 'Sensor_readings --> production': one sensor type can be recored in many production rows. 
     
@@ -50,6 +50,7 @@ This project focues on normalizing synthetic oil & gas production data to create
       - The new normalized schema/ERD allow for efficient querying, analysis, and reporting on the data.
       - The separation of the distinct tables elimates redundancy, reduces risk of data anomalies, and ensure data consistency.
       - Relationships can be identified between operators, wells production and sensor readings data which was not possible with the single unnormalized table.
+
 
 
 
