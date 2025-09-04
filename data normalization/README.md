@@ -22,9 +22,8 @@ This project focues on normalizing synthetic oil & gas production data to create
     - 'Wells --> production': one well generates many production records. 
     - 'Sensor_readings --> production': one sensor type can be recored in many production rows. 
     
-### ERD Diagram: 
-![ERD Diagram of Normalized data] (https://github.com/ralphboadi/ralphboadi/blob/main/data%20normalization/diagram/ERD%20Diagram.png
-  
+### ERD Diagram: <img width="1110" height="626" alt="ERD Diagram png" src="https://github.com/user-attachments/assets/1ac4767a-7ece-48be-9f39-daa92510add4" />
+
 ## Steps Used to Normalize Data 
   - Loaded raw data into the raw_transactions table created in PgAdmin 4, PostgresSQL.
   - Explored and analyzed the raw_transactions table to understand dataset and identified table has redundancy: 1NF (First Normal Form)
@@ -51,6 +50,7 @@ This project focues on normalizing synthetic oil & gas production data to create
       - The new normalized schema/ERD allow for efficient querying, analysis, and reporting on the data.
       - The separation of the distinct tables elimates redundancy, reduces risk of data anomalies, and ensure data consistency.
       - Relationships can be identified between operators, wells production and sensor readings data which was not possible with the single unnormalized table.
+
 
 
 
