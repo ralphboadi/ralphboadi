@@ -25,15 +25,15 @@ This project focuses on normalizing synthetic oil & gas production data to creat
 ### ERD Diagram: <img width="1110" height="626" alt="ERD Diagram png" src="https://github.com/user-attachments/assets/1ac4767a-7ece-48be-9f39-daa92510add4" />
 
 ## Steps Used to Normalize Data 
-  - Loaded raw data into the raw_transactions table in PostgresSQL(PgAdmin 4)
-  - Explored the raw data and identified table has redundancy: 1NF (First Normal Form)
+  - Loaded raw data into the raw_transactions table in PostgresSQL(PgAdmin 4).
+  - Explored the raw data and identified table has redundancy: 1NF (First Normal Form).
   - Defined target structure to achieve 3NF (Third Normal Form). 
   - Created normalized tables suth primary keys;2NF (Second Normal Form):
     - operators Table
     - wells Table
     - production Table 
     - sensor_readings Table 
-  - Inserted distinct values from raw_transactions into normalized tables; 2NF (Second Normal Form)
+  - Inserted distinct values from raw_transactions into normalized tables; 2NF (Second Normal Form).
   - Established foreign keys to enforce referential integrity (2NF → 3NF).
   - Verified there's no redundancy and run some joins to confirm the normalized structure matches the orignial raw data; 2NF (Second Normal Form).
   - Established foreign keys to enforce referential integrity (2NF → 3NF).
