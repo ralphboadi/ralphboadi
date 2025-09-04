@@ -31,6 +31,7 @@ I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in 
 ---
 
 ### Oil & Gas Production Data Normalization
+ **Tools:** Python, PostgreSQL, Excel
  - To normalize synthetic oil & gas production data to create, structured database optimzed for analysis and reporting
  - Reduced data redundancy and ensure consistency across tables using 1NF --> 2NF --> 3NF method of **data normaliation**
  - Showcase my understanding of Entity Relationship Diagram (ERD) after normalization to present relationship between tables
