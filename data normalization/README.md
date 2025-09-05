@@ -48,7 +48,7 @@ This project focuses on normalizing synthetic oil & gas production data to creat
   - What was wrong with the raw table? 
       - All operator, well, production, and sensor details were grouped together in a single raw_transactions table.
       - This caused redundancy, anomalies, and inefficiency in querying.
-  - How I normalized the table? 
+  - How was the unnormalized data fixed? 
       - Created separate tables(operators, wells, production and sensor readings). 
       - Applied foreign keys to link them together.
       - Used normalization (1NF → 2NF → 3NF) to eliminate redundancy and ensure consistency.
