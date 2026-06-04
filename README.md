@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ralph Boadi
 
-I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **PostgreSQL**, **SSMS**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions. Beyond custom database architectures, I have direct, hands-on experience operating within **SAP SD (Sales and Distribution)** and **Salesforce** frameworks in high-volume corporate environments. My work centered around processing, executing, and auditing data lifecycles from end-to-end.
+I'm an **Intermediate Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **PostgreSQL**, **SSMS**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions. Beyond custom database architectures, I have direct, hands-on experience operating within **SAP SD (Sales and Distribution)** and **Salesforce** frameworks in high-volume corporate environments. My work centered around processing, executing, and auditing data lifecycles from end-to-end.
 
 ### How I Optimized ERP & CRM at Lennox International: SAP (Transaction & Order Management) & Salesforce (Data Tracking)
 
