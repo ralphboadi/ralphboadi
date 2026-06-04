@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Ralph Boadi
 
-I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **PostgreSQL**, **SSMS**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions. Beyond custom database architectures, I have direct, hands-on experience operating within **SAP SD (Sales and Distribution)** frameworks in high-volume corporate environments. My work centered around processing, executing, and auditing data lifecycles from end-to-end.
+I'm an aspiring **Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **PostgreSQL**, **SSMS**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions. Beyond custom database architectures, I have direct, hands-on experience operating within **SAP SD (Sales and Distribution)** and **Salesforce** frameworks in high-volume corporate environments. My work centered around processing, executing, and auditing data lifecycles from end-to-end.
 
-### How I Optimized ERP at Lennox International: SAP Transaction & Order Management
+### How I Optimized ERP & CRM at Lennox International: SAP (Transaction & Order Management) & Salesforce (Data Tracking)
 
 *   **Order & Transaction Ingestion:** Utilized SAP to create, modify, and complete complex transaction records and order requests, ensuring zero data entry discrepancies.
 *   **Fulfillment & Supply Chain Tracking:** Coordinated and tracked multi-stream shipments to guarantee strict data alignment between digital order states and physical logistics.
 *   **Data Extraction & Reporting:** Extracted structural data outputs from SAP to run localized data reconciliations, enhancing reporting efficiency and visibility across the business.
+*   **Account Data Auditing:** Navigated complex CRM structures to search for and verify account owners, ensuring clean data governance and seamless cross-functional communication.
+*   **End-to-End Shipment Tracking:** Monitored real-time logistics milestones and delivery statuses directly within the platform to maintain operational visibility.
+*   **Procurement & Exception Management:** Initiated structural parts requests and special-order documentation for out-of-stock inventory, ensuring external vendor data aligned with internal procurement streams.
   
 ---
 
