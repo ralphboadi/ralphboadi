@@ -45,9 +45,9 @@ I'm an **Intermediate Data Analyst** based in Calgary, Alberta with a background
  - [[View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/data%20normalization/README.md)
 
 ## Tools & Skills
-- **Languages/ Tools**: PostgreSQL,SSMS,Power BI, Python (Pandas, NumPy, Matplotlib), Excel
-- **Data Skills**: Data Cleaning, Analysis, A/B Testing, Dashboarding
-- **Soft Skills**: Communication, Critical Thinking, Team Collaboration
+- **Languages/ Tools**: SQL(T-SQL, Postgre SQL), Power BI, Python (Pandas, NumPy, Matplotlib), Excel(Power Query, VLOOKUP, Pivot Tables)
+- **Data & Business Analysis Skills**: Descriptive & Diagnostic Analysis, Data Normalization, Requirements Gathering, Process Mapping, Data Cleaning, Explanatory Analysis, A/B Testing, Dashboarding, Presentation
+- **Core Competencies**: Detail Oriented, Effective Written & Verbal Communication, Critical Thinking, Cross-Functional Collaboration, Problem Solving Mindset, Continuous Improvement
 
 ---
 
