@@ -35,5 +35,5 @@ I bridge the gap between technical data pipelines and actionable operational ins
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Your LinkedIn Profile URL Here](https://linkedin.com)
-* **Email:** [Your Email Address Here](mailto:your-email@example.com)
+* **LinkedIn:** https://www.linkedin.com/in/ralph-boadi
+* **Email:** [ralphboadi@gmail.com](mailto:ralphboadi@gmail.com)
