@@ -1,57 +1,39 @@
-# 👋 Hi, I'm Ralph Boadi
+# Hi, I'm Ralph | Data & Operations Analyst
 
-I'm an **Intermediate Data Analyst** based in Calgary, Alberta with a background in logistics and customer service, and a growing portfolio of data-driven projects. I'm passionate about using **PostgreSQL**, **SSMS**, **Power BI**, **Microsoft Excel** and **Python** to uncover insights and drive smarter decisions. Beyond custom database architectures, I have direct, hands-on experience operating within **SAP SD (Sales and Distribution)** and **Salesforce** frameworks in high-volume corporate environments. My work centered around processing, executing, and auditing data lifecycles from end-to-end.
-
-### How I Optimized ERP & CRM at Lennox International: SAP (Transaction & Order Management) & Salesforce (Data Tracking)
-
-*   **Order & Transaction Ingestion:** Utilized SAP to create, modify, and complete complex transaction records and order requests, ensuring zero data entry discrepancies.
-*   **Fulfillment & Supply Chain Tracking:** Coordinated and tracked multi-stream shipments to guarantee strict data alignment between digital order states and physical logistics.
-*   **Data Extraction & Reporting:** Extracted structural data outputs from SAP to run localized data reconciliations, enhancing reporting efficiency and visibility across the business.
-*   **Account Data Auditing:** Navigated complex CRM structures to search for and verify account owners, ensuring clean data governance and seamless cross-functional communication.
-*   **End-to-End Shipment Tracking:** Monitored real-time logistics milestones and delivery statuses directly within the platform to maintain operational visibility.
-*   **Procurement & Exception Management:** Initiated structural parts requests and special-order documentation for out-of-stock inventory, ensuring external vendor data aligned with internal procurement streams.
-  
----
-
-## 📁 Portfolio Projects
-
-### Superstore Sales & Revenue Dashboard
-**Tools:** Power BI, SSMS, Excel  
-- Built an interactive dashboard analyzing sales across region, category, and sub-category 
-- Used SSMS for data preparation and Power BI for clean, actionable visuals  
-- [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/superstore_sales_project/README.md)
+I bridge the gap between technical data pipelines and actionable operational insights. With expertise in **SQL (T-SQL, PostgreSQL), Python, Power BI, and Data Modeling**, I specialize in turning complex datasets into structured databases, statistical experiments, and interactive executive dashboards.
 
 ---
 
-### A/B Testing: Landing Page Conversion Experiment
-**Tools:** Python (Pandas, Statsmodels), Excel 
-- Simulated an A/B test with 501 users (control vs treatment groups)  
-- Measured conversion rates and ran a statistical significance test  
-- [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/README.md)
+### 🛠 Tools & Technical Skills
 
-### A/B Testing: Soccer Ball Testing Analysis – Lightweight vs Standard Ball
-- Determined whether using a **lightweight football** improves match performance metrics
-- Measured conversion rates and ran a statistical significance test
-- Simulated an A/B test with 250 players (125 per group)
-- [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/soccer_ab_test_project/README.md)
+* **Languages & Database:** SQL (T-SQL, PostgreSQL), Python (pandas, NumPy, matplotlib), DAX
+* **BI & Visualization:** Power BI, Advanced Excel (Power Query, VLOOKUP, Pivot Tables)
+* **Data Engineering & Modeling:** Data Normalization (1NF–3NF), ERD Design, Data Cleaning, ETL Pipelines
+* **Analytical Methods:** A/B Testing, Descriptive & Diagnostic Analysis, Process Mapping, KPI Dashboarding
 
 ---
 
-### Oil & Gas Production Data Normalization
- **Tools:** Python, PostgreSQL, Excel
- - Normalized synthetic oil & gas production data to create structured database optimzed for analysis and reporting
- - Reduced data redundancy and ensured consistency across tables using 1NF --> 2NF --> 3NF method of **data normaliation**
- - Showcased my understanding of Entity Relationship Diagram (ERD) after normalization to present relationship between tables
- - [[View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/data%20normalization/README.md)
+### 📁 Featured Projects
 
-## Tools & Skills
-- **Languages/ Tools**: SQL (T-SQL, Postgre SQL), Power BI, Python (Pandas, NumPy, Matplotlib), Excel (Power Query, VLOOKUP, Pivot Tables)
-- **Data & Business Analysis Skills**: Descriptive & Diagnostic Analysis, Data Normalization, Requirements Gathering, Process Mapping, Data Cleaning, Explanatory Analysis, A/B Testing, Dashboarding, Presentation
-- **Core Competencies**: Detail Oriented, Effective Written & Verbal Communication, Critical Thinking, Cross-Functional Collaboration, Problem Solving Mindset, Continuous Improvement
+| Project Title | Tools Used | Key Deliverable & Impact | Repository |
+| :--- | :--- | :--- | :--- |
+| **Superstore Sales & Revenue Dashboard** | Power BI, SSMS, Excel | Modeled sales performance across regions and product categories in SSMS, delivering interactive Power BI visuals for executive revenue tracking. | [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/superstore_sales_project/README.md) |
+| **Oil & Gas Production Data Normalization** | Python, PostgreSQL, Excel | Executed full relational schema design (1NF → 3NF) on production data, eliminating redundancy, establishing ERD relationships, and optimizing data architecture. | [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/data%20normalization/README.md) |
+| **A/B Testing: Landing Page Conversion** | Python (pandas, statsmodels), Excel | Executed statistical significance hypothesis testing on user conversion experiment data (501 participants) to evaluate digital campaign impact. | [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/ab_test_landing_page_project/README.md) |
+| **A/B Testing: Equipment Performance Analysis** | Python, Pandas, Statsmodels | Conducted controlled A/B test experiments on lightweight vs. standard equipment performance data across key match performance metrics. | [View Project →](https://github.com/ralphboadi/ralphboadi/blob/main/soccer_ab_test_project/README.md) |
 
 ---
 
-## Let's Connect
+### 💡 Featured Case Study Preview
 
-- Email: ralphboadi@gmail.com  
-- LinkedIn: [linkedin.com/in/ralphboadi](https://www.linkedin.com/in/ralphboadi)
+> **Project Highlight: Oil & Gas Data Normalization**  
+> **Challenge:** Unstructured operational production data creating query inefficiency and data redundancy.  
+> **Solution:** Designed a PostgreSQL schema from scratch, migrating flat raw files through strict 3NF normalization rules and documenting relational integrity with an ERD.  
+> **Impact:** Established a scalable database architecture ready for downstream reporting and analytics.
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [Your LinkedIn Profile URL Here](https://linkedin.com)
+* **Email:** [Your Email Address Here](mailto:your-email@example.com)
